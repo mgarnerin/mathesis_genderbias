@@ -8,7 +8,7 @@ library(ggplot2)
 library(readr)
 
 #Import des données
-speakers <- read_delim("turns_wtht_zero.csv", ";", 
+speakers <- read_delim("turns_by_speaker.csv", ";", 
                     escape_double = FALSE, 
                     col_types = cols(gender = col_factor(levels = c("male", "female")), 
                                      id_speaker = col_character()), 
