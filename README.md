@@ -19,4 +19,4 @@ contains the analysis of the length of speech turns
 contains the micro analysis in the context of TV debates
 
 ### analyse_Z_data
-contains the analysis of the ASR system based on the French corpora previously analyzed
+contains the analysis of the ASR system based on the French corpora previously analyzed. A small amount of data is shared in the csv files, the complete amount being under license. For this reason, the results won't be the same as the ones presented in the thesis
