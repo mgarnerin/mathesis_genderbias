@@ -1,0 +1,32 @@
+id_turn;start_time;end_time;speaker;gender;spk_class;episode;trans
+0;30.992;39.296;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;bonsoir, bonsoir à toutes et tous, vous êtes sur bfm tv c'est l'heure de bfm story, c'est-à-dire tout ce qui fait l'actualité se retrouve commenté débattu
+1;39.621;41.354;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;durant 1 heure jusqu'à 18 heures
+2;41.354;41.866;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;et ce qui fait
+3;41.354;41.866;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;olivier.
+4;41.866;47.404;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;l'actualité aujourd'hui c'est une garde à vue de 10 heures pour l'animateur vedette de la télévision jean-luc delarue.
+5;47.404;50.883;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;on en parle ce soir dans bfm story il s'agit d'une affaire de stupéfiants.
+6;50.883;55.782;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;on reviendra également sur l'enquête du contre-espionnage français sur les fuites dans l'affaire woerth
+7;55.782;57.665;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;cette enquête est-elle légale
+8;57.665;66.256;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;le fondateur du gign, celui qui assurait la sécurité de françois mitterrand lorsqu'il était président de la république monsieur christian prouteau sera dans bfm story pour un décryptage.
+9;66.256;72.724;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;et puis on reviendra sur les mesures annoncées par nicolas sarkozy pour relancer la france des propriétaires le détail dans un instant.
+10;72.724;77.377;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;sans oublier le grand retour de la ligue des champions. lyon paraît-il veut gagner cette ligue des champions
+11;77.377;78.242;Olivier_TRUCHOT;male;4;BFMTV-BFMStory-2010-09-14-175900;est-ce possible
+12;78.242;81.127;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;vu le résultats en championnats ça paraît difficile on en parle
+13;81.488;83.095;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;tout de suite mais d'abord le journal.
+14;98.010;106.186;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;ca se discute et ca se discute cocaïne pour euh l'animateur de télévision jean-luc delarue. il a passé la journée en garde à vue.
+15;106.186;118.497;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;il était entendu aujourd'hui par les policiers de la sûreté départementale des hauts-de-seine qui voulaient connaître son rôle dans un trafic de stupéfiants où il apparaît en tant que consommateur visiblement effréné.
+16;118.497;122.236;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;céline couratin était sur place à nanterre pour bfm tv.
+17;123.246;127.222;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;jean-luc delarue est sorti à 16 heures 15 des locaux de ce commissariat de nanterre.
+18;127.222;135.358;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;l'animateur était à bord d'une moto, grosse cylindrée, passager sous le casque on pouvait seulement voir que l'animateur télé avait les yeux rougis.
+19;135.358;139.088;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;il était libre a priori sans escorte policière.
+20;139.088;148.190;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;selon réservoir prod, la société de l'animateur euh jean-luc delarue est reparti direction france télévisions où il doit enregistrer une émission à partir de 18 heures .
+21;148.190;152.205;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;difficile depuis de savoir ce qu'il s'est dit dans ces locaux.
+22;152.205;161.074;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;selon nos sources euh policières jean-luc delarue est laissé libre mais le procureur de la république garde l'opportunité de le poursuivre pour consommation de drogues.
+23;161.074;167.659;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;la question, rappelons-le, était de savoir si l'animateur est un revendeur de drogues, ce ne serait pas le cas ou un simple consommateur.
+24;167.659;181.490;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;16 grammes de cocaïne ont été saisis à *son domicile ce matin lors de la perquisition et selon certaines sources la star âgée de 46 ans consommerait 3 à 4 grammes de cocaïne par jour budget mensuel estimé entre 10 et 12 mille euros.
+25;181.490;190.893;Celine_COURATIN;female;1;BFMTV-BFMStory-2010-09-14-175900;rappelons que ce matin jean-luc delarue et 5 à 7 autres personnes ont été interpellées dès l'aube dans une enquête pour trafic de drogues et plus précisément pour trafic de cocaïne.
+26;191.512;195.638;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;et le cas de jean-luc delarue nous y reviendrons tout à l'heure à 18 heures 45 dans bfm story.
+27;195.638;205.780;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;drogue et people euh avec un autre fait aujourd'hui le chanteur britannique georges michael condamné à 8 semaines de prison à londres pour conduite sous l'influence du cannabis.
+28;205.780;208.914;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;georges michael était un récidiviste dans cette affaire.
+29;210.357;214.456;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;la stupeur des parents d'élèves de l'école primaire vivaldi de saint-pathus en seine-et-marne.
+30;214.456;223.843;Alain_MARSCHALL;male;4;BFMTV-BFMStory-2010-09-14-175900;un enseignant de 52 ans a été arrêté placé en détention provisoire pour possession de plusieurs milliers d'images pédopornographiques sur son ordinateur.
