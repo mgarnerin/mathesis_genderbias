@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_LCPInfo13h30_2012-02-24_132700" version="4" version_date="131031">
+<Speakers>
+<Speaker id="spk1" name="Brigitte_BOUCHER" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="speaker#2" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk3" name="Nicolas_SARKOZY" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk4" name="Francois_HOLLANDE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk5" name="Pierre_LASCAR" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk6" name="Marine_LE_PEN" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk7" name="Jean-Luc_MELENCHON" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk8" name="Thomas_SOULIE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk9" name="Jeremy_COSTE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk10" name="Aziz_SENNI" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk11" name="Olivier_JARDE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk12" name="Ahmed_TAZIR" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk13" name="Abdoulaye_WADE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk14" name="Idrissa_SECK" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk15" name="Youssou_N_DOUR" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk16" name="Jean-Michel_DJIAN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="200.973">
+<Turn startTime="0" endTime="200.973">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="200.973" endTime="1014.977">
+<Turn startTime="200.973" endTime="221.798" speaker="spk1">
+<Sync time="200.973"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+bonjour à tous et bienvenue dans votre édition de la mi-journée sur LCP, nous sommes le vendredi 24 février voici les titres : 
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="207.313"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+duel de candidat par caméras interposées &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a attaqué &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; depuis Lille, réponse quelques instants plus tard de l'intéressé en déplacement au Mans 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="216.076"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+duel en plateau pour &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; et &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; sur France 2, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais le face à face a tourné court.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="221.798" endTime="222.158">
+<Sync time="221.798"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="222.158" endTime="246.568">
+<Sync time="222.158"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le Congrès extraordinaire du Nouveau Centre se tient demain. le climat s'annonce d'ores et déjà délétère les partisans de &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; et ceux de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; devraient s'affronter, alors que son président &lt;pers=Herve_MORIN&gt;Hervé Morin&lt;/pers&gt;
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="234.027"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est contesté. enfin, élections présidentielles au Sénégal ce dimanche. un premier tour tendu après l'insurrection liée à la décision &lt;pers=Abdoulaye_WADE&gt;Abdoulaye Wade&lt;/pers&gt; de se représenter pour un troisième mandat. une décision non conforme à la Constitution.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="246.568" endTime="247.678">
+<Sync time="246.568"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="247.678" endTime="262.850">
+<Sync time="247.678"/>
+le candidat de l'UMP était à Lille hier soir pour défendre la valeur travail, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; s'est déplacé au Mans pour parler agriculture 
+<Sync time="255.83"/>
+deux thèmes mais un sujet commun leur adversaire respectif &lt;pers=Germain_ANDRIEUX&gt;Germain Andrieux&lt;/pers&gt;, &lt;pers=Chloe_BUFFARD&gt;Chloé Buffard&lt;/pers&gt;, &lt;pers=Jean-Baptiste_DAOULAS&gt;Jean-Baptiste Daoulas&lt;/pers&gt; et &lt;pers=Jeremie_HARTMANN&gt;Jérémie Hartmann&lt;/pers&gt;.
+</Turn>
+<Turn startTime="262.850" endTime="263.349">
+<Sync time="262.850"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="263.349" endTime="272.689">
+<Sync time="263.349"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+le nord pour &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, la Mayenne pour &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; à chaque candidat sa région pour un duel à distance avec un thème identique la valeur travail.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="272.689" endTime="294.935">
+<Sync time="272.689"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+je veux être le porte-parole de cette France qui veut vivre de son travail.
+<Event desc="b" type="noise" extent="end"/>
+ il ne faut pas travailler moins, il faut travailler davantage.
+<Sync time="284.055"/>
+
+<Event desc="applaude" type="noise" extent="begin"/>
+sinon
+<Event desc="applaude" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+il ne peut plus y avoir de solidarité parce qu'il ne sera plus possible de payer cette solidarité.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="294.935" endTime="309.057">
+<Sync time="294.935"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+pas de nouvelles annonces mais une nouvelle fois la promesse de référendum en cas de blocage des partenaires sociaux sur la formation des chômeurs ou sur l'immigration illégale. mais côté socialiste &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; refuse de laisser la valeur travail à l'UMP.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="309.057" endTime="310.793">
+<Sync time="309.057"/>
+quel est le respect de la valeur travail ? 
+</Turn>
+<Turn startTime="310.793" endTime="311.655">
+<Sync time="310.793"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="311.655" endTime="314.396">
+<Sync time="311.655"/>
+depuis 5 ans quand il y a 1 million de chômeurs de plus.
+</Turn>
+<Turn startTime="314.396" endTime="315.731">
+<Sync time="314.396"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="315.731" endTime="317.539">
+<Sync time="315.731"/>
+où est le respect de la valeur travail ? 
+</Turn>
+<Turn startTime="317.539" endTime="318.192">
+<Sync time="317.539"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="318.192" endTime="320.082">
+<Sync time="318.192"/>
+quand un quart d'une génération
+</Turn>
+<Turn startTime="320.082" endTime="320.441">
+<Sync time="320.082"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="320.441" endTime="322.017">
+<Sync time="320.441"/>
+celle qui a moins de 25 ans
+</Turn>
+<Turn startTime="322.017" endTime="324.147">
+<Sync time="322.017"/>
+
+<Sync time="323.295"/>
+est au chômage
+</Turn>
+<Turn startTime="324.147" endTime="324.62">
+<Sync time="324.147"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="324.62" endTime="335.388">
+<Sync time="324.62"/>
+et le président des promesses non tenues me paraît être maintenant le candidat de nouveaux engagements qui ne valent pas davantage que ce qu'il avait dit il y a 5 ans.
+</Turn>
+<Turn speaker="spk2" startTime="335.388" endTime="341.586">
+<Sync time="335.388"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+officiellement c'est projet contre projet mais face aux militants l'heure est à la riposte, à la contre-attaque.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="341.586" endTime="342.465">
+<Sync time="341.586"/>
+quand on parle de moi
+</Turn>
+<Turn startTime="342.465" endTime="343.236">
+<Sync time="342.465"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="343.236" endTime="344.561">
+<Sync time="343.236"/>
+comme un être anormal
+</Turn>
+<Turn startTime="344.561" endTime="345.188">
+<Sync time="344.561"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="345.188" endTime="346.652">
+<Sync time="345.188"/>
+je dois le prendre certainement
+</Turn>
+<Turn startTime="346.652" endTime="347.048">
+<Sync time="346.652"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="347.048" endTime="348.742">
+<Sync time="347.048"/>
+comme une grande délicatesse
+</Turn>
+<Turn startTime="348.742" endTime="349.158">
+<Sync time="348.742"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="349.158" endTime="370.48">
+<Sync time="349.158"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+qui tire tout le débat politique vers le haut ? jamais je n'aurais osé affirmer à propos du candidat socialiste
+<Sync time="357.689"/>
+"est-ce que les français peuvent citer une seule chose que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; aurait réalisé en 30 ans de vie politique ? une seule ? " c'est pas de moi, c'est de &lt;pers=Segolene_ROYAL&gt;Ségolène Royal&lt;/pers&gt;.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="370.48" endTime="382.536">
+<Sync time="370.48"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+prochaine étape incontournable de la campagne le salon de l'agriculture dès ce week-end, mais surtout l'éducation thème clé du candidat socialiste. &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; dévoilera ses propositions mardi prochain à Montpellier.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="382.536" endTime="418.65">
+<Sync time="382.536"/>
+et les deux principaux rivaux sont chacun en déplacement. aujourd'hui &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; rencontre les salariés d'ArcelorMittal à Florange.
+<Sync time="388.979"/>
+&lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; ceux de Pétroplus à Petit-Couronne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en Seine-et-Marne. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'agriculture *trème, thème très politique dont il sera question pendant une semaine. le salon ouvre ses portes demain porte de Versailles à Paris 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tous les candidats
+<Sync time="402.213"/>
+ont prévu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de s'y rendre mais dès ce matin &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a défendu les agriculteurs pour faire cesser les suspicions qui les entourent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce ne sont pas les ennemis de l'environnement a-t-il dit dans un entretien donné
+<Sync time="415.237"/>
+à "Agra presse" et la "France agricole"
+</Turn>
+<Turn startTime="418.65" endTime="419.579">
+<Sync time="418.65"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="419.579" endTime="434.681">
+<Sync time="419.579"/>
+débattre sans adversaire. la situation peut paraître cocasse elle était en tout cas bien réelle hier soir sur le plateau de "France 2"
+<Sync time="426.68"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+l'invité de l'émission "des paroles et des actes" &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; a tout simplement refusé l'affrontement avec &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt;. &lt;pers=Pierre_LASCAR&gt;Pierre Lascar&lt;/pers&gt;, &lt;pers=Marie_LABAT&gt;Marie Labat&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk5" startTime="434.681" endTime="443.294">
+<Sync time="434.681"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+le duel annoncé n'a pas vraiment eu lieu, mais c'est un drôle de spectacle qui s'est quand même déroulé hier soir sur le plateau de "France 2".
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="443.294" endTime="446.986">
+<Sync time="443.294"/>
+c'est vrai que c'est une belle affiche &amp;hein 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Luc_MELENCHON&gt;Mélenchon&lt;/pers&gt; &lt;pers=Marine_LE_PEN&gt;Le Pen&lt;/pers&gt; va y avoir du sang 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="446.986" endTime="452.35">
+<Sync time="446.986"/>
+dans le rôle du challenger un &lt;pers=Jean-Luc_MELENCHON&gt;Mélenchon&lt;/pers&gt; remonté avec une furieuse envie d'en découdre.
+</Turn>
+<Turn speaker="spk7" startTime="452.35" endTime="456.411">
+<Sync time="452.35"/>
+vous auriez dû dimanche dernier vous lever et sortir
+</Turn>
+<Turn startTime="456.411" endTime="456.827">
+<Sync time="456.411"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="456.827" endTime="458.808">
+<Sync time="456.827"/>
+contre l'infâme président
+</Turn>
+<Turn startTime="458.808" endTime="459.05">
+<Sync time="458.808"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="459.05" endTime="461.992">
+<Sync time="459.05"/>
+de votre parti a osé citer
+</Turn>
+<Turn startTime="461.992" endTime="462.624">
+<Sync time="461.992"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="462.624" endTime="463.77">
+<Sync time="462.624"/>
+&lt;pers=Robert_BRASILLACH&gt;Robert Brasillach&lt;/pers&gt;
+</Turn>
+<Turn startTime="463.77" endTime="464.182">
+<Sync time="463.77"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="464.182" endTime="471.964">
+<Sync time="464.182"/>
+parce que le poème qu'il a cité était celui d'un collabo et d'un homme qui a osé dire qu'il fallait ramasser en bloc les juifs et leurs petits.
+</Turn>
+<Turn speaker="spk5" startTime="471.964" endTime="478.524">
+<Sync time="471.964"/>
+&lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; tourne autour de son adversaire esquive les attaques jusqu'à refuser définitivement le combat.
+</Turn>
+<Turn speaker="spk6" startTime="478.524" endTime="495.968">
+<Sync time="478.524"/>
+j'aurai bien aimé évidemment 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ d'être au second tour de cette élection présidentielle
+<Sync time="483.289"/>
+pouvoir débattre avec ceux dont je pourrai éventuellement prendre la place au second tour c'est-à-dire soit évidemment Monsieur &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt;, soit Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;. vous n'êtes pas un vrai candidat Monsieur 
+<Event desc="bc" type="noise" extent="begin"/>
+donc par conséquent je ne débat pas avec vous
+<Event desc="bc" type="noise" extent="end"/>
+. 
+</Turn>
+<Turn speaker="spk5" startTime="495.968" endTime="504.826">
+<Sync time="495.968"/>
+scène un peu lunaire le candidat du Front de Gauche finit alors par parler tout seul
+<Sync time="501.655"/>
+en face &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; ne le regarde plus.
+</Turn>
+<Turn startTime="504.826" endTime="505.463">
+<Sync time="504.826"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="505.463" endTime="511.184">
+<Sync time="505.463"/>
+ce matin les deux candidats reviennent sur une expérience télévisuelle plutôt étrange.
+</Turn>
+<Turn speaker="spk6" startTime="511.184" endTime="520.493">
+<Sync time="511.184"/>
+je trouve que le service public c'est particulièrement mal comporté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans cette affaire et que l'objectif était l'audimat et ça c'est la politique spectacle, je ne veux pas de cette politique spectacle.
+</Turn>
+<Turn speaker="spk7" startTime="520.493" endTime="532.012">
+<Sync time="520.493"/>
+d'abord elle n'est pas capable de tenir le choc d'un débat. elle se prend pour je sais pas qui, elle se donne des airs importants, elle méprise les autres. je me suis bien amusé &amp;ah 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+oui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ oui, elle est KO, elle est bonne à rien. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="532.012" endTime="540.509">
+<Sync time="532.012"/>
+&lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; ou &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; difficile de départager un gagnant. une chose est sûre le débat politique n'en est pas vraiment sorti grandi.
+</Turn>
+<Turn startTime="540.509" endTime="541.638">
+<Sync time="540.509"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="541.638" endTime="570.114">
+<Sync time="541.638"/>
+voilà et je vous le disais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ juste avant &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; qui est en déplacement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à Pétroplus dans l'usine Pétroplus &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; qui annonce aux salariés que une signature a lieu avec le groupe Shell. 
+<Sync time="555.396"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="556.136"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Congrès sous tension demain au nouveau centre depuis le retrait de la candidature d'&lt;pers=Herve_MORIN&gt;Hervé Morin&lt;/pers&gt; la gouvernance au sein du parti est contestée. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le choix du candidat à soutenir pour la présidentielle devrait diviser partisans de &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; et de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. &lt;pers=Thomas_SOULIE&gt;Thomas Soulié&lt;/pers&gt;
+</Turn>
+<Turn startTime="570.114" endTime="570.91">
+<Sync time="570.114"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="570.91" endTime="584.67">
+<Sync time="570.91"/>
+ils ont leur carte au Nouveau Centre et pourtant leur candidat c'est &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;, la moitié des sénateurs et des jeunes centristes lance un appel au rassemblement derrière le président du MODEM demain au Congrès, ils devront convaincre les militants.
+</Turn>
+<Turn speaker="spk9" startTime="584.67" endTime="601.15">
+<Sync time="584.67"/>
+nous sommes dans un parti centriste qui vote au premier tour 
+<Sync time="587.787"/>
+c'est un peu étrange pour beaucoup d'entre nous. donc je veux croire que les militants centristes entendront raison d'ici samedi et nous soutiendront et voteront &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;. le parti sera clairement affaibli s'il fait le choix de soutenir &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; au premier tour de l'élection présidentielle.
+</Turn>
+<Turn speaker="spk8" startTime="601.15" endTime="610.509">
+<Sync time="601.15"/>
+tous derrière &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, voici le message d'&lt;pers=Herve_MORIN&gt;Hervé Morin&lt;/pers&gt;, ça motion devrait terminer en tête le parti en serait pas prêt à rompre l'alliance avec l'UMP.
+</Turn>
+<Turn startTime="610.509" endTime="611.141">
+<Sync time="610.509"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="611.141" endTime="627.829">
+<Sync time="611.141"/>
+le sens de la motion d'&lt;pers=Herve_MORIN&gt;Hervé Morin&lt;/pers&gt; c'est d'abord la cohérence, la cohérence avec ce qu'il a dit avant la campagne pendant sa courte campagne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="617.676"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le soutien à &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, le nouveau centre sait où il habite, sait avec qui il veut gouverner donc en cohérence. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il dépose une motion appelant à rejoindre &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk8" startTime="627.829" endTime="638.707">
+<Sync time="627.829"/>
+mais au Nouveau Centre l'heure n'est pas à l'apaisement le flop de la candidature d'&lt;pers=Herve_MORIN&gt;Hervé Morin&lt;/pers&gt; a laissé des traces. la preuve ce député a lui aussi déposé sa motion face au chef du parti.
+</Turn>
+<Turn startTime="638.707" endTime="639.487">
+<Sync time="638.707"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="639.487" endTime="652.430">
+<Sync time="639.487"/>
+&lt;pers=Herve_MORIN&gt;Hervé Morin&lt;/pers&gt; a fait un ralliement sans un rien n'avoir obtenu. nous avons 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un curseur dans cette majorité présidentielle il faut absolument l'affirmer, le défendre et après je dirai dans une grande clarté faire une plate-forme.
+</Turn>
+<Turn speaker="spk8" startTime="652.430" endTime="668.278">
+<Sync time="652.430"/>
+entre les bayrouistes, les sarkozystes et les antis- morenistes, le parti aura du mal à exister après la présidentielle.
+<Sync time="660.008"/>
+certains à l'image de &lt;pers=Francois_SAUVADET&gt;François Sauvadet&lt;/pers&gt; et &lt;pers=Maurice_LEROY&gt;Maurice Leroy&lt;/pers&gt; espèrent une nouvelle alliance de tous les centristes pour les élections législatives.
+</Turn>
+<Turn startTime="668.278" endTime="669.151">
+<Sync time="668.278"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="669.151" endTime="693.054">
+<Sync time="669.151"/>
+et sachez que le numéro 2 du Nouveau Centre &lt;pers=Jean-Christophe_LAGARDE&gt;Jean-Christophe Lagarde&lt;/pers&gt; soutien 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="673.156"/>
+de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; fait partie de l'équipe de campagne du président candidat au côté de &lt;pers=Nathalie_KOSCIUSKO-MORIZET&gt;Nathalie Kosciusko-Morizet&lt;/pers&gt; 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ à l'international à présent élection présidentielle à haut risque ce dimanche au Sénégal 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="686.318"/>
+le pays est en proie de violentes émeutes depuis la décision &lt;pers=Abdoulaye_WADE&gt;Abdoulaye Wade&lt;/pers&gt; de se représenter pour un troisième mandat.&lt;pers=Ahmed_TAZIR&gt;Ahmed Tazir&lt;/pers&gt;. 
+</Turn>
+<Turn startTime="693.054" endTime="693.81">
+<Sync time="693.054"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="693.81" endTime="715.133">
+<Sync time="693.81"/>
+les rues de Dakar en ébullition, c'est le spectacle qu'a donné cette semaine la capitale sénégalaise. oppositions politiques contre le service d'ordre musclé à la veille du scrutin présidentiel qui se tient ce dimanche. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces militants protestent contre la candidature de 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+,
+<Sync time="706.342"/>
+le vieux comme on l'appelle ici. &lt;pers=Abdoulaye_WADE&gt;Abdoulaye Wade&lt;/pers&gt;, 86 ans l'actuel président 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ n'avait droit qu'à deux mandats, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a modifié la Constitution pour en briguer un troisième. 
+</Turn>
+<Turn speaker="spk13" startTime="715.133" endTime="743.087">
+<Sync time="715.133"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+certains citoyens assoiffés de pouvoir sans aucune base populaire sachant qu'elles n'ont aucune chance 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="729.561"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+dans les élections démocratiques et pacifiques ont décidé d'emprunter des voies tortueuses et 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ pour m'empêcher de me présenter. 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="743.087" endTime="745.988">
+<Sync time="743.087"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="745.988" endTime="753.430">
+<Sync time="745.988"/>
+à la tête de la contestation &lt;pers=Idrissa_SECK&gt;Idrissa Seck&lt;/pers&gt; l'ancien premier ministre de &lt;pers=Abdoulaye_WADE&gt;Wade&lt;/pers&gt; passé dans l'opposition il se présente contre son ancien mentor.
+</Turn>
+<Turn speaker="spk14" startTime="753.430" endTime="765.461">
+<Sync time="753.430"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+nous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ nous n'avons pas d'arme, nous n'avons pas de grenade, nous sommes là mains nues 
+<Sync time="758.754"/>
+et nous faisons face à l'arbitraire et nous voulons pas que la démocratie sénégalaise soit écornée.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="765.461" endTime="772.873">
+<Sync time="765.461"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+un front commun d'opposition baptisé M23 s'est formé contre &lt;pers=Abdoulaye_WADE&gt;Wade&lt;/pers&gt; avec un porte-parole connu en France, le chanteur &lt;pers=Youssou_N_DOUR&gt;Youssou N'Dour&lt;/pers&gt;.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="772.873" endTime="783.536">
+<Sync time="772.873"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+je crois que depuis quelques jours, la population sénégalaise dans tous ses compartiments, géographiquement lui a montré qu'ils ne veulent plus de ce troisième mandat.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="783.536" endTime="785.394">
+<Sync time="783.536"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="785.394" endTime="794.775">
+<Sync time="785.394"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+le scrutin de dimanche risque de se dérouler sous haute tension 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec une opposition divisé le candidat &lt;pers=Abdoulaye_WADE&gt;Wade&lt;/pers&gt; est optimiste il espère l'emporter dès le premier tour. 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="794.775" endTime="795.514">
+<Sync time="794.775"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="795.514" endTime="810.425">
+<Sync time="795.514"/>
+enfin la radio "France Culture" se lance dans le papier une belle revue de 200 pages environs où l'on trouve 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des articles, des interviews, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des témoignages vous le voyez ici 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors pour en parler et bien je reçois &lt;pers=Jean-Michel_DJIAN&gt;Jean-Michel Djian&lt;/pers&gt; bonjour.
+</Turn>
+<Turn speaker="spk16" startTime="810.425" endTime="810.831">
+<Sync time="810.425"/>
+bonjour
+</Turn>
+<Turn speaker="spk1" startTime="810.831" endTime="816.451">
+<Sync time="810.831"/>
+vous êtes rédacteur en chef à « France Culture » d'où vous est venue l'idée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de mettre l'oral à l'écrit ? 
+</Turn>
+<Turn speaker="spk16" startTime="816.451" endTime="865.794">
+<Sync time="816.451"/>
+en écoutant la radio, je me suis dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en l'écoutant mais comment se fait-il qu'il se passe autant de choses 
+<Sync time="822.571"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur cette radio qu'on ne voit pas ailleurs, qu'on n'entend pas ailleurs, qu'on ne lit pas ailleurs. et puis avec &lt;pers=Olivier_POIVRE_D_ARVOR&gt;Olivier Poivre d'Arvor&lt;/pers&gt;on s'est dit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pourquoi on ferait pas un journal et ce journal c'est celui que vous avez dans les mains.
+<Sync time="834.0"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et au fond ce pari 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'on a fait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de retrouver du son à l'écrit 
+<Sync time="840.269"/>
+avec effectivement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des images en plus, parce que y a une iconographie qui permet 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de mettre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en valeur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+tout
+<Event desc="dis=rev" type="noise" extent="end"/>
+ toutes ces paroles, ce verbe qu'on entend y a 2200h
+<Event desc="2 200 heures" type="pronounce" extent="previous"/>
+ d'émissions par trimestre c'est énorme.
+<Sync time="851.686"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a 3500 invités qui viennent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans cette maison 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc tout cela on les entend 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on les entend et l'idée 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de faire ce journal c'est effectivement d'arriver à mettre en scène 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cette parole dans de l'écrit.
+</Turn>
+<Turn speaker="spk1" startTime="865.794" endTime="875.262">
+<Sync time="865.794"/>
+c'est quand même un étrange paradoxe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les journaux papiers sont en difficultés et vous « France Culture » vous vous lancez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là-dedans est-ce que c'est pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un pied de nez à la presse écrite ? 
+</Turn>
+<Turn speaker="spk16" startTime="875.262" endTime="928.427">
+<Sync time="875.262"/>
+c'est pas un pied de nez parce que ça a pas été c'est pas une arrière-pensée mais y a de la place pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les beaux journaux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="880.37"/>
+y a de la place, y a des niches "21" , 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ "Courriers Internationales" ont démarré sur une forte capacité d'imagination nous espérons être dans le même
+<Sync time="887.552"/>
+registre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais quand on retrouve par exemple, je pense que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les téléspectateurs 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de LCP
+<Sync time="893.153"/>
+seront sensibles de retrouver à l'écrit par exemple 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le débat qui a eu lieu à l'époque où « France Culture » s'appelait pas « France Culture » 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un débat le lendemain de la création d'Israël
+<Sync time="903.045"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Paul_GUIMARD&gt;Paul Guimard&lt;/pers&gt;, avec &lt;pers=Alfred_COSTE-FLEURET&gt;Alfred Coste-Fleuret&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Georges_GORSE&gt;Georges Gorse&lt;/pers&gt; que l'on retrouve et que j'ai retranscrit
+<Sync time="909.298"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans dans dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans ce journal alors on un éditeur avec nous c'est Bayard
+<Sync time="913.806"/>
+mais on est arrivé, je crois dans ce premier numéros, on fera mieux plus tard 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais de retranscrire l'histoire, notre histoire, l'histoire politique, l'histoire sociale, l'histoire culturelle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans un journal 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ effectivement qui n'existe pas ailleurs puisque c'est une première mondiale.
+</Turn>
+<Turn speaker="spk1" startTime="928.427" endTime="932.184">
+<Sync time="928.427"/>
+alors 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est une sélection des meilleurs moments, qui décident des choix ? 
+</Turn>
+<Turn speaker="spk16" startTime="932.184" endTime="993.919">
+<Sync time="932.184"/>
+ben les choix ils sont décidés
+<Event desc="dis=rep" type="noise" extent="begin"/>
+par
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par le rédacteur en chef
+<Sync time="936.81"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais j'ai une équipe autour de moi et surtout 77 producteurs 
+<Sync time="940.61"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ u() u() une maison d'édition formidable qui s'appelle Bayard 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et nous avons essayé de trouver un système où on capte
+<Sync time="947.11"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le meilleur de l'antenne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais en même temps sur des critères assez formels évidemment c'est l'intemporalité des informations qui va être considéré comme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ importante et puis deuxièmement ce qu'on a pas entendu ailleurs
+<Sync time="959.163"/>
+et la force de la radio peut-être encore plus que la force de la télévision 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est de pouvoir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ réussir à sortir de la 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="967.423"/>
+lire de la spontanéité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais aussi une espèce 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ presque de la fantaisie parfois mais
+<Sync time="974.39"/>
+l'idée de de laisser la parole s'exprimer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et peut-être de la retrouver autrement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur un support donc c'est ça le pari que l'on fait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bon maintenant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on est parti pour plusieurs années
+<Sync time="985.723"/>
+et on est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ confiant mais vraiment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ décidé à aller jusqu'au bout de cette aventure qui 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ne fait que démarrer. 
+</Turn>
+<Turn speaker="spk1" startTime="993.919" endTime="1014.977">
+<Sync time="993.919"/>
+&lt;pers=Jean-Michel_DJIAN&gt;Jean-Michel Djian&lt;/pers&gt; d'être venu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+nous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ nous parler de cette très belle revue 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="998.263"/>
+"France Culture" à lire donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très belle revue, très belle maquette, belles photos 
+<Sync time="1003.238"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ également merci à vous d'avoir accepté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ notre invitation. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ prochain journal de la rédaction dans une semaine 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ "lcp info" prend quelques jours de vacances à très bientôt, au revoir.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1014.977" endTime="1559.688">
+<Turn startTime="1014.977" endTime="1559.688">
+<Sync time="1014.977"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

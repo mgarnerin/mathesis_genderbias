@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-09-21_064700" version="2" version_date="131030">
+<Speakers>
+<Speaker id="spk1" name="Philippe_DUFREIGNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk2" name="Audrey_LAMY" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk3" name="Charles_AZNAVOUR" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk4" name="Whoopi_GOLDBERG" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk5" name="speaker#5" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk6" name="Jean-Pierre_MARIELLE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk7" name="speaker#7" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk8" name="speaker#8" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk9" name="speaker#9" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk10" name="Clint_EASTWOOD" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk11" name="speaker#11" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="480.996">
+<Turn startTime="0" endTime="480.996">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="480.996" endTime="577.382">
+<Turn startTime="480.996" endTime="490.004">
+<Sync time="480.996"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="490.004" endTime="494.737">
+<Sync time="490.004"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+c'était hier soir à Mogador et il paraît qu'il y avait une grande star internationale.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="494.737" endTime="498.317">
+<Sync time="494.737"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+je sais, j'en peux plus, je suis à fond, elle est où ? vite il faut que je la trouve.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="498.317" endTime="501.982">
+<Sync time="498.317"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ça tombe bien, nous aussi et nous n'étions pas les seuls à vouloir lui réserver un bon accueil.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="501.982" endTime="508.78">
+<Sync time="501.982"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+c'est une grande artiste étrangère 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis ma foi j'ai été tellement bien reçu à l'étranger 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que j'aime bien que les autres soient bien reçus chez nous.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="508.78" endTime="518.928">
+<Sync time="508.78"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et celle à qui l'on réservait tous ces honneurs, c'est elle &lt;pers=Whoopi_GOLDBERG&gt;Whoopi Goldberg&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ présente à la première de la version comédie musicale de "Sister Act". 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un spectacle qui a du succès dans le monde entier alors du coup.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4 spk5" startTime="518.928" endTime="522.578">
+<Sync time="518.928"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+je ne suis pas anxieuse, les acteurs sont des acteurs et ils savent ce qu'ils font.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="522.578" endTime="526.048">
+<Sync time="522.578"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ça c'est sûr et les acteurs savent aussi juger la qualité d'un spectacle.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="526.048" endTime="528.035">
+<Sync time="526.048"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+j'aime quand c'est bien.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="528.035" endTime="530.858">
+<Sync time="528.035"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+des chaises pas musicales.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="530.858" endTime="541.39">
+<Sync time="530.858"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+l'image a fait le tour du monde, &lt;pers=Clint_EASTWOOD&gt;Clint Eastwood&lt;/pers&gt; ridiculisé parlant à une chaise vide lors de la grande messe Républicaine. ironie du sort, devinez ce qu'il y avait juste derrière lui sur le tapis rouge de son nouveau film ?
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk8 spk9" startTime="541.39" endTime="544.695">
+<Sync time="541.39"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+il y a 16 chaises vides derrière vous, c'est une bonne blague non ?
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk10 spk11" startTime="544.695" endTime="546.8">
+<Sync time="544.695"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+oh mon dieu oui.
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk8 spk9" startTime="546.8" endTime="549.12">
+<Sync time="546.8"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+vous ferez d'autres choses pour soutenir la campagne de &lt;pers=Mitt_ROMNEY&gt;Romney&lt;/pers&gt; ?
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk10 spk11" startTime="549.12" endTime="554.55">
+<Sync time="549.12"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+bien sûr que je le ferai oui. 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je crois
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je crois qu'on a besoin de renouveau c'est tout.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="554.55" endTime="556.963">
+<Sync time="554.55"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+un événement au stade de France.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="556.963" endTime="577.382">
+<Sync time="556.963"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+&lt;pers=Stefani_GERMANOTTA&gt;Lady Gaga&lt;/pers&gt; a troqué son stade à Nice contre deux dates
+<Sync time="559.676"/>
+dans une salle plus petite mais à Paris elle sera bien demain au stade de France. un concert plein de symboles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le "born this way tour" sera le cinquantième concert du stade de Saint Denis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et du haut de ses 26 ans &lt;pers=Stefani_GERMANOTTA&gt;Stefani Germanotta&lt;/pers&gt; sera la plus jeune artiste à s'y produire.
+<Sync time="573.28"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il reste des places.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="577.382" endTime="3961.296">
+<Turn startTime="577.382" endTime="3961.296">
+<Sync time="577.382"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

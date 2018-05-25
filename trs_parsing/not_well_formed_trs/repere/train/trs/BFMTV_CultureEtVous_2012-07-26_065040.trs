@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-07-26_065040" version="3" version_date="131030">
+<Speakers>
+<Speaker id="spk1" name="Francois-Xavier_MENAGE" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Sandra_GANDOIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk4" name="Athenais_KELLER" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk5" name="Rudy_MILSTEIN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk6" name="Alexandra_CHOURAQUI" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="206.642">
+<Turn startTime="0" endTime="206.642">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="206.642" endTime="299.54">
+<Turn startTime="206.642" endTime="211.828" speaker="spk1">
+<Sync time="206.642"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+le vieux théâtre avec la présentation ce matin d'un atelier, celui de &lt;pers=Pierre_PALMADE&gt;Pierre Palmade&lt;/pers&gt;.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="211.828" endTime="219.799">
+<Sync time="211.828"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+le comique lance des petits nouveaux sur la scène parisienne. ça s'appelle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ "les malheurs de Rudy". &lt;pers=Athenais_KELLER&gt;Athénaïs Keller&lt;/pers&gt;.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="219.799" endTime="231.002">
+<Sync time="219.799"/>
+oui alors y a un truc que j'aime beaucoup chez toi, c'est en fait tu sais dans ta bouche 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+tout
+<Event desc="dis=rep" type="noise" extent="end"/>
+ tout devient vulgaire. tu sais, tu peux dire n'importe quoi, tu peux dire je sais pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ biberon, voiture, &amp;hop c'est vulgaire. moi j'aime bien, ça me fait rire. 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="231.002" endTime="232.284">
+<Sync time="231.002"/>
+
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="232.284" endTime="237.083">
+<Sync time="232.284"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+comment dire des horreurs en restant attachant ? &lt;pers=Rudy_MILSTEIN&gt;Rudy&lt;/pers&gt; a compris le truc, il suffit de montrer ses dents.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="237.083" endTime="240.0">
+<Sync time="237.083"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+mes dents sont mon fond de commerce. non 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ je sais pas, c'est bizarre de dire ça.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="240.0" endTime="249.642">
+<Sync time="240.0"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+un sourire permanent et l'air un peu ailleurs. ce sont les armes fatales de &lt;pers=Rudy_MILSTEIN&gt;Rudy Milstein&lt;/pers&gt; entouré de quatre comédiens. il en use et abuse et nous raconte ses petits malheurs pour notre plus grande joie.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="249.642" endTime="256.142">
+<Sync time="249.642"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+t'as toujours un problème avec la conjugaison anglaise. tu me fais une faute pratiquement à chaque fois. &amp;bon tu t'en fous de ce que je viens de dire ?
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="256.142" endTime="257.287">
+<Sync time="256.142"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+&amp;ben non pourquo[a-z] ?
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="257.287" endTime="259.844">
+<Sync time="257.287"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+non comme ça une impression. 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="259.844" endTime="269.573">
+<Sync time="259.844"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+&amp;ben en faite on fait tous parti de l'atelier 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Pierre Palmade 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et comme j'avais écrit pas mal de sketchs et tout &amp;ben du coup 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Pierre_PALMADE&gt;Palmade&lt;/pers&gt; m'avait proposé de faire un spectacle là ici au Point Virgule.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="269.573" endTime="274.212">
+<Sync time="269.573"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+de toute façon, écoute-moi bien, si tu continues comme ça, moi je vais te quitter et tu l'auras pas volé.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="274.212" endTime="279.806">
+<Sync time="274.212"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="279.806" endTime="282.404">
+<Sync time="279.806"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+&amp;ben écoute ok moi ça me va. 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="282.404" endTime="293.922">
+<Sync time="282.404"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+la pièce cartonne au Point Virgule, leur premier fan ne cache pas sa joie.
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="286.02"/>
+la 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est que
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est le succès de &lt;pers=Rudy_MILSTEIN&gt;Rudy&lt;/pers&gt; parce qu'il est auteur et il est comédien 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+et la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ et de la troupe. ouais c'est un des premiers succès de l'atelier, je suis assez fier.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="293.922" endTime="299.54">
+<Sync time="293.922"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+la pièce sera reconduite à la rentrée dans une nouvelle salle. on a pas fini d'entendre parler des "malheurs de Rudy".
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="299.54" endTime="418.512">
+<Turn startTime="299.54" endTime="418.512">
+<Sync time="299.54"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-09-26_064700" version="3" version_date="131030">
+<Speakers>
+<Speaker id="spk1" name="Christophe_DELAY" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="speaker#3" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="speaker#4" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Ethel_HOUBIERS" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Philippe_DUFREIGNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk7" name="Salma_HAYEK" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk8" name="speaker#8" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk9" name="speaker#9" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk10" name="Jib_POCTHIER" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk11" name="Matthieu_POKORA" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk12" name="Fred_TESTOT" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="377.977">
+<Turn startTime="0" endTime="377.977">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="377.977" endTime="492.991">
+<Turn startTime="377.977" endTime="385.23" speaker="spk1">
+<Sync time="377.977"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+du cinéma y en a "savages" 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ "savages" 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui sort 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aujourd'hui d'&lt;pers=Oliver_STONE&gt;Oliver Stone&lt;/pers&gt; avec &lt;pers=Salma_HAYEK&gt;Salma Hayek&lt;/pers&gt;
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="385.23" endTime="389.152">
+<Sync time="385.23"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+une soirée pour les gamers fan de foot hier soir à l'Olympia 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ pia.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="389.152" endTime="394.87">
+<Sync time="389.152"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ouais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pia pia
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pia 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ et une expo dédiée aux impressionnistes et à la mode 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça c'est au musée d'Orsay. &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="394.87" endTime="399.583">
+<Sync time="394.87"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+c'est à vos méthodes que nous voulons nous associer. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="399.583" endTime="401.683">
+<Sync time="399.583"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+on bosse pas avec vous, le prenez pas mal.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="401.683" endTime="403.565">
+<Sync time="401.683"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+on va leur apprendre le respect.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="403.565" endTime="415.262">
+<Sync time="403.565"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+non seulement elle est de retour mais en plus elle est méchante. &lt;pers=Salma_HAYEK&gt;Salma Hayek&lt;/pers&gt; est à la tête d'un cartel mexicain dans "savages" d'&lt;pers=Oliver_STONE&gt;Oliver Stone&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça faisait longtemps qu'elle n'avait pas tourné dans un film américain 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en fait elle se croyait oubliée.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="415.262" endTime="430.725">
+<Sync time="415.262"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+ trop vieille, quasiment à la retraite, vivant à Paris et n'étant plus à Hollywood mais qui essayait de faire des films en Europe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus vraiment là-bas en somme
+<Sync time="425.948"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+et puis &lt;pers=Oliver_STONE&gt;Oliver Stone&lt;/pers&gt; m'a redonné l'envie de tourner.
+</Turn>
+<Turn speaker="spk9" startTime="430.725" endTime="433.641">
+<Sync time="430.725"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+encore du ballon.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="433.641" endTime="441.318">
+<Sync time="433.641"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+après "les seigneurs" on aura jamais autant parlé de foot. hier soir, les stars se la jouaient gamers à la soirée de lancement de Fifa 2013 nouvelle version du jeu.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="441.318" endTime="446.266">
+<Sync time="441.318"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+il est un peu plus réaliste dans le sens dans les mouvements je les trouve plus fluides ouais les passes sont un peu mieux aussi.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="446.266" endTime="450.823">
+<Sync time="446.266"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+parole d'expert que l'éditeur avait convié à l'Olympia s'il vous plaît pour une grande soirée et test.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="450.823" endTime="456.659">
+<Sync time="450.823"/>
+l'évolution ne sera flagrante 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à chaque édition mais voilà y a toujours une évolution.
+</Turn>
+<Turn speaker="spk6" startTime="456.659" endTime="459.687">
+<Sync time="456.659"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+en résumé, c'est mieux et en plus ça peut sauver des couples.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="459.687" endTime="469.1">
+<Sync time="459.687"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+des gens qui étaient proche du divorce ou qui étaient ça n'allait plus dans leur couple et ben grâce à Fifa
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ tout d'un coup comme par miracle tout allait mieux.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="469.1" endTime="471.936">
+<Sync time="469.1"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+changement d'univers.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="471.936" endTime="492.991">
+<Sync time="471.936"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+les impressionnistes et la mode plus 70 peintures sont présentées au musée d'Orsay
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="476.251"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ signé &lt;pers=Pierre-Auguste_RENOIR&gt;Renoir&lt;/pers&gt;, &lt;pers=Edouard_BRANLY&gt;Édouard Manet&lt;/pers&gt;, &lt;pers=Claude_MONET&gt;Claude Monet&lt;/pers&gt; ou &lt;pers=Edgar_DEGAS&gt;Edgar Degas&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un temps où la parisienne symbolisait le chic, où elle se faisait faire des robes sur mesure 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et les peintures étaient le reflet de l'époque 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 1340 mètres carrés d'exposition accompagnés d'authentiques tenues.
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="489.028"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à voir jusqu'au 20 janvier au musée d'Orsay.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="492.991" endTime="3962.04">
+<Turn startTime="492.991" endTime="3962.04">
+<Sync time="492.991"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

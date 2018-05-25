@@ -1,0 +1,3433 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_CaVousRegarde_2012-09-24_202500" version="37" version_date="131113">
+<Speakers>
+<Speaker id="spk1" name="Arnaud_ARDOIN" check="no" dialect="native" accent="R1" scope="local" type="male"/>
+<Speaker id="spk2" name="Jean_GLAVANY" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk3" name="Chems-Eddine_HAFIZ" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk4" name="Jeannette_BOUGRAB" check="no" dialect="native" accent="R4" scope="local" type="female"/>
+<Speaker id="spk5" name="Caroline_FOUREST" check="no" dialect="native" accent="R4" scope="local" type="female"/>
+<Speaker id="spk6" name="Maxime_LCP_CaVousRegarde_2012-09-24_202500" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk7" name="Abdelkarim_AICHI" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk8" name="Marine_LE_PEN" check="no" dialect="native" accent="R4" scope="local" type="female"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="1663.819">
+<Turn startTime="0" endTime="1663.819">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1663.819" endTime="3916.257">
+<Turn speaker="spk1" startTime="1663.819" endTime="1675.454">
+<Sync time="1663.819"/>
+on va revenir sur la laïcité parce que évidemment le débat a été relancé sur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les religions, la laïcité, la place de l'Islam, le voile, la kippa. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'abord votre réaction comme ça parce qu'on avait annoncé dès vendredi comme ça des manifestations, elles avaient été interdites
+</Turn>
+<Turn startTime="1675.454" endTime="1675.796">
+<Sync time="1675.454"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1675.796" endTime="1679.383">
+<Sync time="1675.796"/>
+c'est rien passé &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt;, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'est-ce que vous en tirez vous comme conclusio[a-z] ?
+</Turn>
+<Turn startTime="1679.383" endTime="1679.966">
+<Sync time="1679.383"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1679.966" endTime="1711.716">
+<Sync time="1679.966"/>
+&amp;oh pour ce qui concerne la France 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je dirais le soulagement était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ minime. parce qu'au fond 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la démocratie française est une démocratie apaisée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1688.338"/>
+et beaucoup plus sage que certain 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ne
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ne l'espère parfois. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'étais surtout soulagé pour ce qui s'est passé dans les pays 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ arabes où il y avait là des possibilités 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de dérapage qui était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1698.155"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ beaucoup plus avérées et je pense que là aussi les choses ce sont passés aussi bien que possible 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui est très soulageant enfin ce qui ne règle pas les problèmes sur le fond on en parlera tout à l'heure voilà du soulagement mais plus pour ce qui s'est passé dans les pays arabes que ce qui s'est passé en France
+</Turn>
+<Turn speaker="spk1" startTime="1711.716" endTime="1716.89">
+<Sync time="1711.716"/>
+hum &lt;pers=Chems-Eddine_HAFIZ&gt;Chems-Eddine Hafiz&lt;/pers&gt; c'est peut-être parce que le CFCM avait appelé au calme que le message est passé? je sais pas
+</Turn>
+<Turn startTime="1716.89" endTime="1717.646">
+<Sync time="1716.89"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1717.646" endTime="1726.436">
+<Sync time="1717.646"/>
+en tout cas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ ça prouve 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ encore une fois que on ne connait pas bien la communauté musulmane. ici en France les pouvoirs publics n'appréhendent pas cette communauté comme il se doit. 
+</Turn>
+<Turn startTime="1726.436" endTime="1727.06">
+<Sync time="1726.436"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1727.06" endTime="1742.077">
+<Sync time="1727.06"/>
+lorsque 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous avons été reçus par le ministre de l'intérieur nous lui avons dit qu'en tout état de cause
+<Sync time="1732.494"/>
+nous jouerons notre rôle en tant que responsable religieux puisque le vendredi le recteur de la grande mosquée de Paris a diffusé largement à travers 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les Imams 
+</Turn>
+<Turn startTime="1742.077" endTime="1742.528">
+<Sync time="1742.077"/>
+
+</Turn>
+<Turn startTime="1742.528" endTime="1750.124" speaker="spk3">
+<Sync time="1742.528"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans toute la France un message où d'abord il appelait au calme bien évidemment mais en même temps il rappelait des préceptes religieux
+</Turn>
+<Turn startTime="1750.124" endTime="1750.783">
+<Sync time="1750.124"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1750.783" endTime="1757.911">
+<Sync time="1750.783"/>
+dans la religion musulmane lorsque l'on a un adversaire il n'est pas question de l'attaquer de manière violente, il y a 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et on a même rappelé 
+</Turn>
+<Turn speaker="spk1" startTime="1757.911" endTime="1761.160">
+<Sync time="1757.911"/>
+vous faites référence 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ à qui 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+à
+<Event desc="dis=rev" type="noise" extent="end"/>
+ aux radicaux, aux salafistes qu'on a appelé les salafistes
+</Turn>
+<Turn speaker="spk3" startTime="1761.160" endTime="1773.526">
+<Sync time="1761.160"/>
+alors aujourd'hui la communauté musulmane 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elle est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ elle est prise en tenaille entre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les radicaux islamistes bien évidemment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en même temps ceux qui aujourd'hui prône 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'islamophobie parce qu'il y a aujourd'hui des personnes qui mettent de l'huile sur le feu
+</Turn>
+<Turn startTime="1773.526" endTime="1774.105">
+<Sync time="1773.526"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1774.105" endTime="1777.556">
+<Sync time="1774.105"/>
+abondamment cette communauté musulmane qui dans son ensemble
+</Turn>
+<Turn startTime="1777.556" endTime="1778.1">
+<Sync time="1777.556"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1778.1" endTime="1781.881">
+<Sync time="1778.1"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous pensez à qui islamophob[a-z] ? vous pensez au Front Nationa[a-z] ? on va revenir bien évidemment sur les petites phrases de 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk3" startTime="1781.881" endTime="1789.09">
+<Sync time="1781.881"/>
+écouté 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je pense à beaucoup de gens parce que y a beaucoup de gens qui sont islamophobes, Front National qui pose la question sur la kippa et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sur
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sur le voile 
+</Turn>
+<Turn startTime="1789.09" endTime="1789.798">
+<Sync time="1789.09"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1789.798" endTime="1812.89">
+<Sync time="1789.798"/>
+vous avez fait un livre intitulé "&lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; démasquée" &amp;ben j'espère qu'elle a été démasquée pour une fois 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de manière définitive puisque
+<Sync time="1797.77"/>
+elle a toujours, elle nous a toujours habitué à surfer sur ce genre de situation, elle l'a déjà fait par le passé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lorsqu'elle voulait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ s'imposer
+<Sync time="1805.749"/>
+au lieu et place 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de son
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de son cher papa, aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle veut effectivement reprendre le partie et son université d'été
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1812.89" endTime="1814.478">
+<Sync time="1812.89"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1814.478" endTime="1815.755">
+<Sync time="1814.478"/>
+pour lui montrer que c'était
+</Turn>
+<Turn speaker="spk1" startTime="1815.755" endTime="1834.931">
+<Sync time="1815.755"/>
+on va y revenir parce que j'ai une petite phrase d'elle mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je vou(lais)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je voulais qu'on fasse un tout petit point parce qu'on avait 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ média avaient fait pas mal de papier et d'articles on sentait comme ça que les choses montaient 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1824.326"/>
+on se souvient de ces images place de la Concorde avec 
+<Event desc="dir=rep" type="noise" extent="begin"/>
+ces
+<Event desc="dir=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces 250 militants, des jeunes, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des barbus comme on dit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+. comment vous regardez-là il s'est rien passé finalement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans les grande villes de provinces où on est resté calme
+</Turn>
+<Turn speaker="spk4" startTime="1834.931" endTime="1901.823">
+<Sync time="1834.931"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rev" type="noise" extent="end"/>
+ moi ce que je crois 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et moi j'aimerais rendre hommage aussi bizarre que ça puisse paraître à Charlie Hebdo parce que ça reste d'une certaine manière 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1843.095"/>
+les derniers avec &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; ou &lt;pers=Elisabeth_BADINTER&gt;Elisabeth Badinter&lt;/pers&gt; de ceux qui se battent pour la laïcité et le droit de blasphémer voilà le blasphème n'existe pas en France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en tout cas il a été aboli abrogé depuis deux siècles et on a le sentiment parfois que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1856.098"/>
+ya une tentation 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de revenir dessus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et moi je m'inquiète parce que c'est vrai 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a pas
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de grandes manifestations 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1863.161"/>
+mais moi je pense que des gens comme &lt;pers=Stephane_CHARBONNIER&gt;Charb&lt;/pers&gt; qui prend des risques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ou &lt;pers=Richard_MALKA&gt;Richard Malka&lt;/pers&gt; qui est son avocat 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1868.228"/>
+et bien rien n'interdit demain d'avoir quelqu'un d'isolé 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ oui mais comme il l'était 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+lors(que)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ lors du procès en fait des caricatures de Charlie Hebdo il y a déjà quelques années 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1878.46"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je partage au moins un point de vue ce qui est en train de se passer dans le monde et notamment dans le monde arabe et notamment en Afrique du nord 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi m'inquiète terriblement voila 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1886.851"/>
+ce qui se passe en Tunisie quand 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la constitution
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la commission de la Constitution explique que la femme 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est le complément de l'homme et que le président &lt;pers=Moncef_MARZOUKI&gt;Marzouki&lt;/pers&gt; dit que c'est une maladresse 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quand je vois que des internautes ont été condamnés à 7 ans de prison pour avoir mis une caricature 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; sur Facebook quand je vois
+</Turn>
+<Turn speaker="spk1" startTime="1901.823" endTime="1902.783">
+<Sync time="1901.823"/>
+la liberté est en dange[a-z] ?
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1902.783" endTime="1904.246">
+<Sync time="1902.783"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1904.246" endTime="1929.947">
+<Sync time="1904.246"/>
+elle est en danger évidemment en Tunisie quand on a vu la répression violente qu'il y a eu deux morts en Tunisie &amp;hein 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ certes c'était sur le film 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui est passé sur Youtube 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce qui moi m'inquiète aussi c'est que 30% 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1917.699"/>
+des tunisiens de France ont voté pour Ennahdha en Tunisie donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour moi c'est pas la France n'est pas distincte de ce qui se passe en Afrique du nord 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+nos deux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ nos deux communautés ou nos communautés de chaque rive de la Méditérranée sont liées
+</Turn>
+<Turn speaker="spk1" startTime="1929.947" endTime="1938.089">
+<Sync time="1929.947"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; il faut être prudent parce que si j'entends bien &lt;pers=Jeannette_BOUGRAB&gt;Jeannette Bougrab&lt;/pers&gt; faut être à la fois prudent parce que défendre la laïcité c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ j'allais dire par les temps qui courent prendre des risques si j'entends bien &amp;hein
+</Turn>
+<Turn startTime="1938.089" endTime="1938.47">
+<Sync time="1938.089"/>
+
+</Turn>
+<Turn speaker="spk1 spk5" startTime="1938.47" endTime="1940.301">
+<Sync time="1938.47"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1940.301" endTime="1988.18">
+<Sync time="1940.301"/>
+c'est pas nouveau et moi j'avoue que ce weekend 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai eu très peur pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Stephane_CHARBONNIER&gt;Charb&lt;/pers&gt; j'ai eu très peur jusqu'à ce qu'on apprenne que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+un
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un jeune garçon était monté pour le décapiter. il a été arrêté heureusement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1949.645"/>
+mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il faut aussi faire la part des choses, c'est-à-dire que on sait bien que le danger ce ne sont pas des foules, c'est pas des masses, surtout pas en France et ceux qui pensent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le débat dans ces termes-là sont suspects à mes yeux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de faire un certain nombre d'amalgames 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1962.5"/>
+il y a quelques dizaines de salafistes un peu plus de 100 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui effectivement ont voulu faire une manifestation parce qu'ils ont été recrutés sur Facebook on leur a dit vient défendre ton prophète 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1970.585"/>
+et des petits cons parce que c'est ça dont il s'agit avec des Nikes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sont venus jouer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aux allateurs défenseurs de &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; 
+<Sync time="1977.461"/>
+sans trop à mon avis connaître bien forcément 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'Islam 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh y a eu un calme effectivement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce weekend parce qu'il y a eu un important dispositif policier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui pose d'ailleurs des questions de libertés individuelles
+</Turn>
+<Turn startTime="1988.18" endTime="1990.417" speaker="spk1">
+<Sync time="1988.18"/>
+le droit de manifester parce que c'est un droit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ important
+</Turn>
+<Turn speaker="spk5" startTime="1990.417" endTime="2031.86">
+<Sync time="1990.417"/>
+c'est un vrai débat et je pense qu'il va se reposer la semaine prochaine puisqu'il y a une manifestation d'extrémistes là de droite mais qui ont déposé leur manifestation depuis plus longtemps 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et donc ils seront certainement pas interdit, puis sinon 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ça devient
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ça deviendrait un vrai problème pour la liberté d'expression 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2001.769"/>
+mais aussi parce que je pense que les musulmans de France sont beaucoup moins hystériques que certains journalistes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2006.617"/>
+et moi j'ai trouvé mes confrères très hystériques vis-à-vis de ce qu'il s'est passé sur Charlie Hebdo 
+<Sync time="2010.743"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui ont annoncé des jours avant que ça allait susciter 
+<Sync time="2013.884"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la colère des musulmans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ non c'est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+là
+<Event desc="dis=rep" type="noise" extent="end"/>
+ là ou 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sin(cèrement)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sincèrement j'en veux à certains confrères c'est d'avoir présenté ce numéro de Charlie Hebdo comme un numéro spécial
+<Sync time="2022.18"/>
+qui voulait faire des caricatures sur &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; tout ça est faux, c'est un numéro ordinaire, il n'y avait pas &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; en couverture 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et à l'intérieur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il n'y avait que des dessins qui couvraient l'actualité de la semaine point 
+</Turn>
+<Turn speaker="spk4" startTime="2031.86" endTime="2052.424">
+<Sync time="2031.86"/>
+ce qui était 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ surprenant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est de voir des journalistes qui se disent par respect nous allons pas diffuser les images, ils s'autocensuraient eux-mêmes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2039.022"/>
+en pensant déjà que ça allait mettre le feu aux poudres c'est très étrange 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ normalement quand on est journaliste on est libre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi c'est du coup 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+quand on est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ quand ils expliquaient que par respect ils n'allaient pas montrer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les caricatures on se disait ou 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2052.424" endTime="2053.965">
+<Sync time="2052.424"/>
+on les voit derrière moi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on voit "Charles"
+</Turn>
+<Turn speaker="spk4" startTime="2053.965" endTime="2071.897">
+<Sync time="2053.965"/>
+on en on en voit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ non
+<Sync time="2055.801"/>
+vous avez vu la couverture mais certains 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ I-télé par exemple a refusé de montrer l'intérieur 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on a pas besoin ils s'autocensurent donc la liberté c'est de pouvoir
+<Sync time="2064.852"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et voila sur la liberté de manifester sur le plan constitutionnel, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on peut très bien en tout cas réglementer, interdire, quand des raisons d'ordre public le justifient &amp;hein 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2071.897" endTime="2082.033">
+<Sync time="2071.897"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on est passé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de l'international des manifestations à Paris à Charlie Hebdo 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ aucun problème puisque c'était une autre séquence importante évidemment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ comment vous regardez vous &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; y a pas eu une autre manifestation les choses étaient calmes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2082.033" endTime="2090.793">
+<Sync time="2082.033"/>
+y a eu ces caricatures 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elles tombaient
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elles tombaient bien, elles tombaient mal est-ce qu'il fallait le faire parce qu'il y avait un contexte 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+bouillant
+<Event desc="dis=rev" type="noise" extent="end"/>
+ bouillonnant 
+</Turn>
+<Turn speaker="spk1" startTime="2090.793" endTime="2092.422">
+<Sync time="2090.793"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ comment vous les regardez ces caricature[a-z] ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2092.422" endTime="2135.059">
+<Sync time="2092.422"/>
+moi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ élu de la République parlementaire 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de quel droit je
+<Sync time="2097.523"/>
+je porterais jugement pour savoir si ça tombe bien ou pas d'avoir faut prendre toute 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2101.731"/>
+ce qui a été écrit par tous les journalistes de France ces derniers jours ou 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ces
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ces dernières semaines et puis article par article 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dirent ce qu'on pense sur le fond 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comme le disait &lt;pers=Jeannette_BOUGRAB&gt;Jeannette Bougrab&lt;/pers&gt; ou 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; la liberté d'expression est la liberté d'expression, la liberté de la presse est la liberté de la presse
+<Sync time="2116.11"/>
+et la liberté de caricaturer est la liberté de caricaturer ça ne se discute pas 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ce sont des libertés fondamentales 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2122.22"/>
+elles ne se font pas comme ça pas en 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ toutes irresponsabilités, elles se font dans le cadre des lois de la République, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ y a des lois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui protègent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui sanctionnent la diffamation y a la loi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui sanctionne l'antisémitisme et le racisme y a des lois de la République
+</Turn>
+<Turn speaker="spk1" startTime="2135.059" endTime="2141.864">
+<Sync time="2135.059"/>
+je peux vous soumettre ce tweet "sous couvert de liberté" nous dit cet internaute 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ "liberté d'expression" Charlie Hebdo "nous crée des problèmes dont on se serait bien passé"
+</Turn>
+<Turn speaker="spk2" startTime="2141.864" endTime="2149.835">
+<Sync time="2141.864"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais les problèmes c'est pas Charlie Hebdo qui les crée enfin 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ faut arrêter 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de nous prendre pour des imbéciles c'est pas les musulmans non plus, les musulmans c'est un amalgame 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2149.835" endTime="2157.619">
+<Sync time="2149.835"/>
+on constate 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le débat vraiment tourné 
+<Event desc="bc" type="noise" extent="begin"/>
+c'est-à-dire qu'on a beau s'expliquer qu'on a beau on est toujours suspect, le musulman est toujours suspect
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2157.619" endTime="2160.536">
+<Sync time="2157.619"/>
+je n'accepte pas 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+cet
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce type de présentation 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ parce que c'est pas vrai
+</Turn>
+<Turn speaker="spk2 spk3" startTime="2160.536" endTime="2164.841">
+<Sync time="2160.536"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2164.841" endTime="2170.988">
+<Sync time="2164.841"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ personne n'est ému lorsque les musulmans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ne peuvent pas manifester 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on rappelle les principes constitutionnels 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2170.988" endTime="2172.453">
+<Sync time="2170.988"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2172.453" endTime="2174.403">
+<Sync time="2172.453"/>
+peut-être les réglementer à chaque fois 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+
+</Turn>
+<Turn speaker="spk4 spk3" startTime="2174.403" endTime="2180.225">
+<Sync time="2174.403"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2180.225" endTime="2191.102">
+<Sync time="2180.225"/>
+vous avez commencé votre commentaire en disant que tout s'est bien passé en France il faut voir à l'international 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pourquoi moi 
+<Sync time="2185.044"/>
+lorsqu'il se passe quelque chose dans un autre pays où il y a des catholiques qui sont assassinés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2188.754"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on écrit ni les catholiques de France 
+</Turn>
+<Turn speaker="spk2" startTime="2191.102" endTime="2193.7">
+<Sync time="2191.102"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais attendez, arrêtez de faire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ arrêtez de faire
+</Turn>
+<Turn speaker="spk3 spk2" startTime="2193.7" endTime="2195.305">
+<Sync time="2193.7"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2195.305" endTime="2195.586">
+<Sync time="2195.305"/>
+mais non
+</Turn>
+<Turn speaker="spk3" startTime="2195.586" endTime="2215.951">
+<Sync time="2195.586"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+vous me parlez des pays arabes pourquoi moi je dépends d'un pays Arab[a-z] ? 
+<Sync time="2198.322"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+je suis comme vous français 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je suis
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je suis de confession musulmane 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais voilà
+<Event desc="bc" type="noise" extent="end"/>
+ parce qu'il y a des morts on me parle de mort en Tunisie etc... 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous sommes en France il s'est passé un événement important ici
+<Sync time="2209.377"/>
+par rapport à un film et qui a été accentué par des caricatures publiées par Charlie Hebdo 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="2215.951" endTime="2217.646">
+<Sync time="2215.951"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="2217.646" endTime="2220.952">
+<Sync time="2217.646"/>
+déjà provoqué par 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des religions intégristes aussi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2220.952" endTime="2224.169">
+<Sync time="2220.952"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2224.169" endTime="2230.155">
+<Sync time="2224.169"/>
+ma question que j'ai posée a tout le monde est-ce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous 
+<Sync time="2226.216"/>
+vous reconnaissez cette liberté d'expression 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à un journal et à des journaliste[a-z] ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2230.155" endTime="2243.327">
+<Sync time="2230.155"/>
+écoutez nous l'avons affirmé là également 
+<Sync time="2232.307"/>
+les musulmans lorsque l'on a fait notre procès en 2006 et &lt;pers=Caroline_FOUREST&gt;Caroline&lt;/pers&gt; est bien placée pour le savoir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur 12 caricatures on en a choisi que deux qui touchaient vraiment à notre croyance 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'année dernière 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+y a r(eu)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il y a eu "charia hebdo" 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2243.327" endTime="2244.971">
+<Sync time="2243.327"/>
+j'ai une croyance &lt;pers=Chems-Eddine_HAFIZ&gt;Chems-Eddine Hafiz&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2244.971" endTime="2252.885">
+<Sync time="2244.971"/>
+attendez, ça m'a touché j'ai le droit quand même d'aller en justice 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, j'ai perdu ce procès point à la ligne on a tourné la page 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il y a pas eu de manifestation y a pas eu de violence 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2252.885" endTime="2254.384">
+<Sync time="2252.885"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2254.384" endTime="2262.649">
+<Sync time="2254.384"/>
+en 2011 l'année dernière "charia hebdo" moi j'ai rencontré 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ j'ai discuté avec lui on a dit il n'y aura aucune contestation de notre part aujourd'hui 
+</Turn>
+<Turn startTime="2262.649" endTime="2263.204">
+<Sync time="2262.649"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2263.204" endTime="2287.012">
+<Sync time="2263.204"/>
+et là tu as raison de parler des médias pourquoi 
+<Event desc="bc" type="noise" extent="begin"/>
+moi les médias m'ont tous appelé pour me dire alors
+<Event desc="bc" type="noise" extent="end"/>
+ vous attaquez en justice charlie Hebd[a-z] ? j'ai dit non 
+<Sync time="2269.162"/>
+j'ai dit non je n'attaquerai pas en justice c'est pas normal pourquoi vous n'attaquez pas en justice, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on est tout le temps le dos au mur vous imaginez pas la souffrance qu'on est contraint aujourd'hui de vivre 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors vous élu de la République pensez un peu à cette souffrance ce sont des concitoyens 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui sont en train de tirer 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la sonnette d'alarme
+<Sync time="2284.14"/>
+trop c'est trop on a essuyé les pieds sur les musulmans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2287.012" endTime="2291.548">
+<Sync time="2287.012"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2291.548" endTime="2328.825">
+<Sync time="2291.548"/>
+juste pour dire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, moi je suis issue de cette communauté et vous le savez bien donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et on peut pas me reprocher à moi de dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je suis
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je suis désolé ce qui se passe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2301.514"/>
+de l'autre côté ne pensez pas que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on vit dans un monde hermétique et ce qui se passe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2306.607"/>
+en Tunisie &amp;ben moi je me sens concernée même si je suis d'origine algérienne. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'atteinte aux sacrés me donne des boutons me donne la
+<Sync time="2312.71"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je comprends et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je comprends
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je comprends absolument pas voilà 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc moi je serai jamais indifférente à ce qui se passe en Algérie, au Maroc, en Tunisie ou en Libye 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et quand charl(e) Charlie fait "charia hebdo"
+<Sync time="2323.819"/>
+c'était pour dénoncer que désormais la charia devrait ériger la constitution 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ libyenne 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2328.825" endTime="2344.438">
+<Sync time="2328.825"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2344.438" endTime="2346.025">
+<Sync time="2344.438"/>
+parce qu'ils veulent s'exprimer 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ allez-y
+</Turn>
+<Turn speaker="spk5" startTime="2346.025" endTime="2370.919">
+<Sync time="2346.025"/>
+tout le monde comprend très bien que la mosquée de Paris mais pas que vous &amp;hein maitre &lt;pers=Chems-Eddine_HAFIZ&gt;Hafiz&lt;/pers&gt; beaucoup d'autres 
+<Sync time="2351.367"/>
+musulmans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ laïques 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sont épuisés
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sont épuisés 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ d'être pris 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en tenaille entre
+<Sync time="2356.472"/>
+des extrémistes qui instrumentalisent 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ l'Islam pour menacer le violent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et des racistes anti-musulmans qui existent. on comprend ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en même temps chacun à son rôle à jouer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire que Charlie Hebdo est un journal satirique sa tradition est critiquée tous les intégristes et quand vous dites 
+</Turn>
+<Turn startTime="2370.919" endTime="2371.336">
+<Sync time="2370.919"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2371.336" endTime="2373.425">
+<Sync time="2371.336"/>
+c'était pas le moment c'était irresponsable 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2373.425" endTime="2380.025">
+<Sync time="2373.425"/>
+j'ai dit c'est irresponsable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et j'ai dit moi en tout état de cause 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la liberté d'expression pour nous également elle est sacrée 
+</Turn>
+<Turn startTime="2380.025" endTime="2380.343">
+<Sync time="2380.025"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2380.343" endTime="2383.749">
+<Sync time="2380.343"/>
+et cette liberté d'expression 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ je l'ai dit même dans le caniveau moi je la respecte
+</Turn>
+<Turn speaker="spk5" startTime="2383.749" endTime="2385.375">
+<Sync time="2383.749"/>
+maître &lt;pers=Chems-Eddine_HAFIZ&gt;Hafiz&lt;/pers&gt; est-ce que juste je pourrais rajouter un mot
+</Turn>
+<Turn speaker="spk1" startTime="2385.375" endTime="2387.555">
+<Sync time="2385.375"/>
+&lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; et nos internautes 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ Maxime
+</Turn>
+<Turn speaker="spk5" startTime="2387.555" endTime="2430.330">
+<Sync time="2387.555"/>
+parce que c'est ça qui est fondamental, c'est que ça n'est pas Charlie Hebdo qui a fait cette actualité de la semaine, c'est pas Charlie Hebdo qui a créé l'actualité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2394.188"/>
+mondiale de manifestation à Benghazi du meurtre de l'ambassadeur
+<Sync time="2397.978"/>
+de cette vidéo stupide sur laquelle on est tous d'accord pour dire qu'elle est absolument débile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc du coup à partir du moment ou y a cette actualité Charlie Hebdo ne peut pas faire un numéro sur &lt;pers=BOUDDHA&gt;Bouddha&lt;/pers&gt; c'est aussi simple que ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ après pour vous c'est compliqué 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2409.415"/>
+mais nous aussi pour nous tous s'est compliqué de faire la pédagogie 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de ceux qui font des amalgames et qui ne comprennent pas la différence entre couvrir l'actualité et la créer ou la susciter pour provoquer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ensuite entre un journal satirique et un journal ordinaire 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+fina(lement)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ effectivement moi on m'aurait dit 
+<Sync time="2423.286"/>
+ "le Monde" fait un numéro spécial sur &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; dans ce contexte avec des caricatures en une j'aurais dit mais est-ce que c'est vraiment bien le momen[a-z] ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ Mais c'est pas ce qui s'est passé.
+</Turn>
+<Turn speaker="spk1" startTime="2430.330" endTime="2432.339">
+<Sync time="2430.330"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est pas dans la culture
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="end"/>
+ oui c'est pas la culture de ce journal
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2432.339" endTime="2436.041">
+<Sync time="2432.339"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2436.041" endTime="2453.208">
+<Sync time="2436.041"/>
+j'ai toujours le sentiment que moi j'ai été tout 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ tout ce qui se passait 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+au
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans le sud Sahel et notamment qui au nom de la charia on a lapidé un couple nom marié qui avait un enfant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on a coupé des mains on a détruit des mausolées du onzième siècle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2449.155"/>
+ moi j'aimerais aussi que ma communauté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ se lève et manifeste devant
+</Turn>
+<Turn speaker="spk4 spk3" startTime="2453.208" endTime="2456.306">
+<Sync time="2453.208"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2456.306" endTime="2464.4">
+<Sync time="2456.306"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le silence
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le silence, on est coupable et je m'inclus dedans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ du silence qui est en train de se passer moi voilà 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce qui me chagrine
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2464.4" endTime="2467.166">
+<Sync time="2464.4"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2467.166" endTime="2477.264">
+<Sync time="2467.166"/>
+pakistanaise qui a été condamnée à mort, elle a été reçue à la mosquée de Paris par mon intervention à moi
+<Sync time="2471.746"/>
+d'accord, et à chaque fois qu'il a fallu dénoncer parce que oui il y a des exactions qui sont commises au nom de l'Islam
+</Turn>
+<Turn startTime="2477.264" endTime="2477.574">
+<Sync time="2477.264"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2477.574" endTime="2508.308">
+<Sync time="2477.574"/>
+ça on en disconvient pas et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on le dit ce ne sont pas des musulmans ce sont des criminels
+<Sync time="2482.891"/>
+à partir du 11 septembre on l'a dit, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on l'a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on l'a répété que ça ne peut pas être au nom de l'Islam
+<Sync time="2488.275"/>
+c'est une religion comme les autres 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2489.891"/>
+on ne peut pas tuer au nom de l'Islam 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2491.485"/>
+alors je vais pas vous refaire
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est le verset qui dit que quand on tue 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une personne c'est toute 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'hu(manité)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'humanité qu'on a tué
+<Sync time="2497.079"/>
+mais c'est un verset qui est sacré pour notre croyance.
+<Sync time="2499.722"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+donc aujourd'hui quelqu'un qui tue, quelqu'un qui fait quelque chose à une femme qui s'attaque 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à plus à plus
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à plus faible que lui il n'est pas musulman c'est un criminel
+</Turn>
+<Turn speaker="spk3 spk4" startTime="2508.308" endTime="2509.763">
+<Sync time="2508.308"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2509.763" endTime="2520.521">
+<Sync time="2509.763"/>
+comment expliquer 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ que ça ne soulève jamais ces mouvements de foule on a tué quatre personnes, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quatre diplomates qui en réalité aimaient ces terres, c'était pas des gens 
+<Event desc="r " type="noise" extent="instantaneous"/>
+ alors moi je je ne comprends pas que il y a toujours une 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3 spk4" startTime="2520.521" endTime="2522.635">
+<Sync time="2520.521"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2522.635" endTime="2538.736">
+<Sync time="2522.635"/>
+moi je vais laisser la parole à Maxime 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et à &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui qui
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qui écoute 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Maxime dites nous comment vous vous situez comme citoyen 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans ce débat
+<Sync time="2529.711"/>
+vous êtes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ étudiant comment vous regardez cette question on est sur la liberté d'expression 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et on est sur la position des musulmans de France 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2538.736" endTime="2578.052">
+<Sync time="2538.736"/>
+moi, je pense que très sincèrement Charlie Hebdo a fait son travail de journal satirique
+<Sync time="2543.51"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ce n'est à personne d'autre qu'un juge français de juger s'il a dépassé les limites ou pas, ce qu'on oublie en France c'est qu'on est fondé sur une république de valeurs, de liberté
+<Sync time="2554.249"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qu'un journal fasse son travail c'est tout à fait normal que ce soit l'Islam, que ce soit pour les Chrétiens, que ce soit pour les Juifs peu importe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et il n'y a pas de questions de responsabilité à avoir lorsqu'on essaye de faire son travail 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est tout 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et
+<Sync time="2567.839"/>
+remettre 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ ce système là pour moi c'est remettre en cause finalement un petit peu la laïcité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et le fait que la religion s'exerce dans le domaine privé et nom pas dans le domaine public
+</Turn>
+<Turn speaker="spk1" startTime="2578.052" endTime="2614.217">
+<Sync time="2578.052"/>
+voila merci 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Maxime 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je voulais vous entendre je voulais quand même préciser pour ceux qui nous regarde 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2584.314"/>
+et il y a &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; militante de l'antiracisme et il s'est passé des choses un peu compliqué pour elle à la fête de l'huma parce qu'elle a pas pu débattre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2591.305"/>
+sous la pression d'un certain nombre de militants dont peut-être vous faisiez partie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc j'aimerais que le débat soit apaisé, posé et que les gens s'écoutent le plus tranquillement possible et que chacun puisse entendre les arguments des autres voilà &lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt;
+<Sync time="2603.628"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on vous écoute comment vous regardez cette question 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on entend les caricatures, on a glissé de la scène internationale à la France, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous situez vous les indigènes de la république sur cette question
+</Turn>
+<Turn speaker="spk7" startTime="2614.217" endTime="2660.893">
+<Sync time="2614.217"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ donc tout d'abord je voulais 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+préci(ser) donc
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vous remercier déjà de me permettre 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de m'exprimer sur votre plateau, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je suis porte parole du parti des Indigènes de la République
+<Sync time="2621.498"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'occasion pour moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de m'exprimer effectivement sur un sujet qui nous touche en premier lieu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ déjà 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je suis un peu
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je suis un peu surpris et c'est
+<Sync time="2630.375"/>
+de toute manière à chaque fois la même chose, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est qu'à partir du moment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ou
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ou on parle d'Islam on va tout de suite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ chercher des exemples un peu partout on traite de la même manière
+<Sync time="2638.326"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des musulmans qui habitent en Afghanistan, en Irak, en Libye et des musulmans qui habitent en Île-de-France ou à Marseille etc. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on fait absolument aucun 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="2648.499"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+au
+<Event desc="dis=rev" type="noise" extent="end"/>
+ aucune aucune différence attendez je voulais juste préciser un truc quand même parce que c'est très important
+<Sync time="2653.391"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire qu'on regarde l'Islam sur un prisme qui est complètement biaisé, comment peut-on demander
+<Sync time="2657.42"/>
+à un musulman afghan d'accord qui prend des bombes sur la tête 
+</Turn>
+<Turn startTime="2660.893" endTime="2661.232">
+<Sync time="2660.893"/>
+
+</Turn>
+<Turn startTime="2661.232" endTime="2690.509" speaker="spk7">
+<Sync time="2661.232"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ y a des drones qui passe au dessus de sa maison il a perdu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des membres de sa famille etc
+<Sync time="2665.982"/>
+et on sait que c'est l'OTAN, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ les Etats-Unis, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la France aussi qui a des soldats en Afghanistan qui sont partie prenante et qui sont donc responsable d'une certaine manière 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2673.966"/>
+et en plus de ça ces afghans qui sont musulmans apprennent en plus au travers des médias qu'un journal français insulte leur foi
+<Sync time="2681.55"/>
+vous voudriez que ils acceptent ça tranquillement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sans sans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sans crier gare mais attendez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+faut faut faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ faut 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2690.509" endTime="2692.573">
+<Sync time="2690.509"/>
+il faut qu'il y ait débat donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous légitimez la violenc[a-z] ? 
+</Turn>
+<Turn startTime="2692.573" endTime="2693.207">
+<Sync time="2692.573"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="2693.207" endTime="2696.116">
+<Sync time="2693.207"/>
+non pas du tout c'est pas du tout ce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai dit
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai dit qu'il fallait pas qu'on mette 
+</Turn>
+<Turn speaker="spk1 spk7" startTime="2696.116" endTime="2697.475">
+<Sync time="2696.116"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="2697.475" endTime="2737.779">
+<Sync time="2697.475"/>
+on regarde les musulmans sous le même prisme, à partir du moment
+<Sync time="2700.898"/>
+en France ça s'est très bien passé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ y a des gens qui ont voulu s'exprimer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sur
+<Event desc="dis=rep" type="noise" extent="end"/>
+ su(r) 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'on voulu exprimer leur mécontentement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on leur à tout de suite
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on leur à tout de suite
+<Sync time="2709.377"/>
+interdit ça alors qu'on 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au
+<Event desc="dis=rep" type="noise" extent="end"/>
+ au nom de cette même liberté d'expression d'un côté on autorise quelqu'un 
+<Sync time="2714.66"/>
+en l'occurrence un journal 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à caricaturer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une et insulter moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je préfère le terme d'insulter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ insulter une religion 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2721.892"/>
+et de l'autre on empêcherait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ des musulmans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui se sont complètement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="2725.608"/>
+ils se sont comportés tout à fait calmement ils ont utilisé 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les moyens qu'ils étaient à leur disposition
+<Sync time="2731.344"/>
+ils ont simplement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ manifesté en France la manifestation est est de droit 
+<Sync time="2735.707"/>
+voilà donc 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est des questions de ce genre qu'il faut se poser
+</Turn>
+<Turn speaker="spk1" startTime="2737.779" endTime="2742.052">
+<Sync time="2737.779"/>
+&lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt;, &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; vous voulez répondr[a-z] ? &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; y a plein de choses là? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ y a deux poids deux mesures 
+</Turn>
+<Turn speaker="spk2" startTime="2742.052" endTime="2760.615">
+<Sync time="2742.052"/>
+un j'ai défendu Charlie Hebdo quand j'ai été dans l'opposition y a 4 ou 5 ans ou 6 ans je sais plus c'était en 2006 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ouais
+<Sync time="2747.104"/>
+deux je le défends quand je suis dans la majorité parce que pour moi c'est pas une question d'opportunité politique 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ conjoncturelle c'est une question de principe et de principe républicain et donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ma position est celle que a si bien exprimé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Maxime 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'étudiant que nous venons d'écouter 
+</Turn>
+<Turn speaker="spk1" startTime="2760.615" endTime="2762.041">
+<Sync time="2760.615"/>
+quelle que soit les religions dit-il
+</Turn>
+<Turn speaker="spk2" startTime="2762.041" endTime="2773.437">
+<Sync time="2762.041"/>
+quel et quelque soit les religions il a bien raison 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ deux je veux répondre à cette histoire de l'amalgame parce que vous l'avez défendu ce qui me gêne c'est que le représentant de l'indigène de la république dit aussi que nous sommes dans l'amalgame des musulmans 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ justement
+</Turn>
+<Turn startTime="2773.437" endTime="2773.811">
+<Sync time="2773.437"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2773.811" endTime="2804.905">
+<Sync time="2773.811"/>
+je pense qu'on est assez nombreux ici on est trois au moins à dire non justement nous sommes des intellectuels ou des élus ou 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des perso(nnalités)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des citoyens
+<Sync time="2780.813"/>
+qui essaient de faire la part des choses et justement nous n'avons jamais
+<Sync time="2784.099"/>
+porté les uns et les autres de regard d'amalgame sur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2786.929"/>
+la religion musulmane nous savons que
+<Sync time="2788.824"/>
+d'abord la religion musulmane moi j'ai appris que c'était une grande diversité y a les sunnites 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a les chiites
+<Event desc="dis=rep" type="noise" extent="end"/>
+, y a les chiites, y a les alaouites, chez les sunnites y a les sal(afistes) y a les 
+<Sync time="2795.903"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ chez les alaouites chez les chiites, les salafistes chez les sunnites, parmi les salafistes les ouahabites et tout ça il y a une grande 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ et puis y a pas un pape qui commande tout ça
+</Turn>
+<Turn startTime="2804.905" endTime="2805.252">
+<Sync time="2804.905"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2805.252" endTime="2820.405">
+<Sync time="2805.252"/>
+bon y a pas un maître donc vous voyez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a une grande diversité et donc moi 
+<Sync time="2808.622"/>
+j'ai aucune difficulté à faire la part des choses et à regarder les choses dans leurs diversités et en particulier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comme citoyen engagé et comme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2816.946"/>
+comme dire comme passionné par ces affaires, de république, de laïcité et de religion
+</Turn>
+<Turn startTime="2820.405" endTime="2820.883">
+<Sync time="2820.405"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2820.883" endTime="2844.478">
+<Sync time="2820.883"/>
+ j'ai toujours fait la différence et je la ferai toujours 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2822.988"/>
+entre l'immense majorité des musulmans de France qui sont 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2825.79"/>
+des laïques c'est-à-dire qu'ils acceptent de vivre leur foi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en reco(naissant)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en reconnaissant la supériorité des lois de la République 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2830.271"/>
+et une petite minorité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ toute petite minorité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui comme les autres intégristes catholiques, protestants ou juifs
+<Sync time="2836.971"/>
+y en a dans toutes les religions
+<Sync time="2838.346"/>
+eux n'acceptent pas la suprématie des lois de la République, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je ne gère 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ je finis je ne ferai jamais cet amalgame
+</Turn>
+<Turn startTime="2844.478" endTime="2844.894">
+<Sync time="2844.478"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2844.894" endTime="2855.346">
+<Sync time="2844.894"/>
+et je m'y refuse sur cet amalgame est destructeur pour nos sociétés on est d'accord 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ bon
+<Sync time="2849.027"/>
+enfin y a un dernier point je voulais revenir à l'international parce que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous dites on est venu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a peine parlé de l'international, y a quand même pas que des mauvaises nouvelles 
+</Turn>
+<Turn startTime="2855.346" endTime="2855.599">
+<Sync time="2855.346"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2855.599" endTime="2865.568">
+<Sync time="2855.599"/>
+moi ce qui s'est passé à Benghazi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ce weekend 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ je l'ai pris avec le sourire le fait que ce commando de salafistes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2861.032"/>
+qui manifestement ne faisait pas une réaction spontanée mais parce que ils avaient leurs bazookas leurs
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2865.568" endTime="2867.277">
+<Sync time="2865.568"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2867.277" endTime="2887.082">
+<Sync time="2867.277"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+m(ais)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ mais qu'ils aient été conspués, chassés par des foules qui ont dit c'est pas pour ça qu'on a fait la révolution 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça c'est un grand moment d'espoir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ce qu'il se passe en Tunisie vous avez raison 
+<Sync time="2876.092"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+à partir de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est l'article 28 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de projet de constitution qui définit c'est espèce de de concept obscène de complémentarité de la femme, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et &amp;ben que ça fasse l'objet d'un débat qui émet en ce moment une réaction qui commence à exprimer
+</Turn>
+<Turn startTime="2887.082" endTime="2887.327">
+<Sync time="2887.082"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2887.327" endTime="2904.501">
+<Sync time="2887.327"/>
+timidement mais elle va venir j'espère ça c'est des signes d'espoirs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc voila, je regarde ces choses avec intérêt 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2892.714"/>
+avec inquiétude parfois comme vous 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+quand
+<Event desc="dis=rep" type="noise" extent="end"/>
+ quand l'article 28 arrive, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec espoir quand je vois la réaction que ça provoque 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et c'est très important parce que là je reviens je finis ce qu'il se passe là-bas ça nous concerne &amp;hein 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est tout près 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et ce sont nos amis
+</Turn>
+<Turn speaker="spk1" startTime="2904.501" endTime="2915.051">
+<Sync time="2904.501"/>
+les français observent évidemment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les soubresauts et tout ce qui se passe en Libye notamment et en Tunisie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ juste un petit mot parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai un petit son à vous faire entendre de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous répondez quoi à &lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt; qui dit finalement il y a un amalgame c'est ce qu'on entend sur le plateau 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2915.051" endTime="2918.63">
+<Sync time="2915.051"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2918.63" endTime="2930.888">
+<Sync time="2918.63"/>
+pour vous surprendre il y a un point sur lequel je suis visiblement d'accord avec les indigènes de la république 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ une surprise c'est qu'effectivement moi j'ai été aussi choquée de voir que par moment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2926.155"/>
+on attendait des musulmans de France la même réaction qu'a Benghazi qu'a Pachawa ou qu'au Nigeria 
+<Event desc="bc" type="noise" extent="begin"/>
+alors que nous parlons
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="2930.888" endTime="2931.093">
+<Sync time="2930.888"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2931.093" endTime="2967.408">
+<Sync time="2931.093"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quand même 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ comme 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ le mot même si je le reconnais pas parce qu'à l'intérieur même des musulmans de France y a une pluralité, une diversité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2938.591"/>
+et pareil pour les autres pays mais enfin nous parlons de choses totalement différentes
+<Sync time="2942.057"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là ou nous avons un désaccord profond 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qu'ils ont a exprimer de façon très agressives et très violentes mais ce sont leurs méthodes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec les indigènes de la République 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est que moi je combats tous les amalgames et je combats aussi ceux qui essaient d'amalgamer
+<Sync time="2953.867"/>
+la critique légitime féministe et laïque notamment que j'essaye de porter vis-à-vis de
+<Sync time="2958.136"/>
+tous les intégrismes y compris l'intégrisme musulman 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+avec de l'islamophobie
+<Event desc="bc" type="noise" extent="end"/>
+ ce qui est un amalgame absolument dégueulasse mais c'est une mauvaise fois habituelle des méthodes de propagande de groupe
+</Turn>
+<Turn startTime="2967.408" endTime="2967.638">
+<Sync time="2967.408"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2967.638" endTime="2987.035">
+<Sync time="2967.638"/>
+qui en réalité eux cherchent plutôt à faciliter l'alliance avec les islamistes ici en France parce que ici en France il y aussi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2974.769"/>
+des radicaux, des islamistes, des gens qui attaquent la mosquée de Paris, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des gens qui attaquent l'imam de Drancy, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des gens qui sont d'une violence 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ en priorité mais parce que ils sont ils défendent un autre Islam, ils défendent un Islam politique 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3 spk5" startTime="2987.035" endTime="2993.617">
+<Sync time="2987.035"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2993.617" endTime="3000.149">
+<Sync time="2993.617"/>
+réactionnaire que des militants d'extrême gauche
+<Sync time="2996.451"/>
+au sein par exemple des Indigènes de la République
+<Sync time="2998.778"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ arrive à soutenir
+</Turn>
+<Turn startTime="3000.149" endTime="3000.385">
+<Sync time="3000.149"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3000.385" endTime="3010.604">
+<Sync time="3000.385"/>
+par alliance des données de la terre contre l'impérialisme et le sionisme 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est à dire que vous avez des gens d'extrême gauche qui soutiennent des gens d'extrême droite c'est quand même un paradoxe mais l'histoire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ n'en est pas à un paradoxe près
+</Turn>
+<Turn speaker="spk5 spk2" startTime="3010.604" endTime="3012.215">
+<Sync time="3010.604"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="3012.215" endTime="3014.149">
+<Sync time="3012.215"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3014.149" endTime="3028.553">
+<Sync time="3014.149"/>
+juste un mot c'est que moi j'étais affligée par l'argumentation sur l'Afghanistan 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et que parce que éventuellement il y aurait des drones qui passent ça pouvaient justifier la barbarie notamment à l'égard des femmes. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des femmes qui s'immolent en Afghanistan ne supportant pas
+</Turn>
+<Turn startTime="3028.553" endTime="3028.789">
+<Sync time="3028.553"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3028.789" endTime="3048.262">
+<Sync time="3028.789"/>
+la violence dans laquelle ils se trouvent, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des gamines qui sont mariés à 11/12 ans qui n'a rien à voir avec l'Islam &amp;hein c'est des pratiques coutumières 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qu'on m'explique qu'il y a une raison sociale ou éventuellement historique parce que ils sont occupés etc je trouve ça ignoble
+<Sync time="3042.553"/>
+rien ne peut justifier l'injustifiable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et la cause des femmes afghanes et bien moi je ferais partie de celles qui la défendraient
+</Turn>
+<Turn speaker="spk1" startTime="3048.262" endTime="3056.038">
+<Sync time="3048.262"/>
+écoutez, regardez &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; je vais simplement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce tweet j'en profite parce que y a des tweets 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a des gens qui commencent à tweeter l'émission donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais je sais que
+</Turn>
+<Turn speaker="spk2" startTime="3056.038" endTime="3056.886">
+<Sync time="3056.038"/>
+très hauts placés qui font des tweets
+</Turn>
+<Turn startTime="3056.886" endTime="3058.512">
+<Sync time="3056.886"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3058.512" endTime="3070.354">
+<Sync time="3058.512"/>
+des gens très hauts placés qui le regrettent parfois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Lila qui nous dit on se rappelle des caricatures 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de Benetton 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ retiré sous pression du Vatican. la liberté d'expression nous dit elle est à géométrie variable on se souvent de ses caricatures qui avait suscité une 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ trés
+</Turn>
+<Turn speaker="spk5" startTime="3070.354" endTime="3071.502">
+<Sync time="3070.354"/>
+scandaleux et je vous signale
+</Turn>
+<Turn speaker="spk1 spk5" startTime="3071.502" endTime="3072.712">
+<Sync time="3071.502"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3072.712" endTime="3084.127">
+<Sync time="3072.712"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et en Grèce il y a un jeune blogueur qui est en train d'être poursuivi pour blasphème parce qu'il a fait une caricature sur un moine orthodoxe. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on en est là vous croyez qu'en Grèce vraiment 
+<Event desc="bc" type="noise" extent="begin"/>
+ils ont rien d'autre à faire que de réhabiliter le délit de blasphème
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3084.127" endTime="3094.036">
+<Sync time="3084.127"/>
+reconnaissons je suis pas abonné à Charlie Hebdo et je ne suis pas l'avocat, ils en ont un et très bon à Charlie Hebdo de cet hebdomadaire mais enfin franchement ils ont tapé sur le Pape au moins aussi souvent que sur &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3094.036" endTime="3096.523">
+<Sync time="3094.036"/>
+on a beaucoup plus vu sou(vent) souvent les fesses du Pape que de &lt;pers=MAHOMET&gt;Mahomet&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3096.523" endTime="3100.221">
+<Sync time="3096.523"/>
+et d'ailleurs sur &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; qui est en procès 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ actuellement avec Charlie Hebdo c'est ce qui 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3100.221" endTime="3103.415">
+<Sync time="3100.221"/>
+défend la liberté d'expression 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais qui n'aime pas beaucoup qu'on la caricature néanmoins 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3103.415" endTime="3108.695">
+<Sync time="3103.415"/>
+évoque dans une interview dans "le monde". écoutez ce que disait &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; on sait pas si c'était pour teaser comme on dit dans un jargon un peu journalistique
+</Turn>
+<Turn startTime="3108.695" endTime="3108.926">
+<Sync time="3108.695"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3108.926" endTime="3120.996">
+<Sync time="3108.926"/>
+cette affaire
+<Sync time="3109.716"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour lancer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ses
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ses universités d'été à la Baule en tout cas ça a fait grand bruit. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ écouter la et bien elle souhaite interdire kippa et voile sur les lieux publics écoutez la puis on en débat juste après. 
+</Turn>
+<Turn speaker="spk8" startTime="3120.996" endTime="3123.936">
+<Sync time="3120.996"/>
+la proposition d'étendre la loi de 2004
+</Turn>
+<Turn startTime="3123.936" endTime="3124.46">
+<Sync time="3123.936"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3124.46" endTime="3134.62">
+<Sync time="3124.46"/>
+qui interdit tout signe religieux ostentatoire à l'école à l'ensemble de la sphère publique a immédiatement entrainé un déchainement de la meute UMPS
+</Turn>
+<Turn startTime="3134.62" endTime="3136.099">
+<Sync time="3134.62"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3136.099" endTime="3137.671">
+<Sync time="3136.099"/>
+or de quoi s'agit-il
+</Turn>
+<Turn startTime="3137.671" endTime="3139.536">
+<Sync time="3137.671"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3139.536" endTime="3142.703">
+<Sync time="3139.536"/>
+il n'y a que nos politiciens pour ignorer ce qui saute aux yeux des français
+</Turn>
+<Turn startTime="3142.703" endTime="3144.105">
+<Sync time="3142.703"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3144.105" endTime="3151.760">
+<Sync time="3144.105"/>
+les petits ou grands arrangements avec la laïcité ont permis à des groupes politico-religieux de monter en gamme dans leurs exigences
+</Turn>
+<Turn startTime="3151.760" endTime="3152.777">
+<Sync time="3151.760"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3152.777" endTime="3167.308">
+<Sync time="3152.777"/>
+vous Président de la République vous cédez comme votre prédécesseur au bras de fer que nous impose les fondamentalistes, les groupes politico-religieux qui veulent faire plier l'autorité de l'Etat et détruire ce gage de paix civile notre laïcité
+</Turn>
+<Turn startTime="3167.308" endTime="3168.294">
+<Sync time="3167.308"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3168.294" endTime="3179.306">
+<Sync time="3168.294"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les internautes juste pour vous entendre sur cette question du voile 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elle parle de la loi de 2004 sur les signes ostentatoires à l'école
+<Sync time="3175.098"/>
+on reviendra sur la mission parlementaire sur le voile y avait eu une proposition de loi de &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt;
+</Turn>
+<Turn startTime="3179.306" endTime="3201.403" speaker="spk1">
+<Sync time="3179.306"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3179.534"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il avait a y évoqué en relisant en préparant l'émission, il avait évoqué cette question en reprenant un peu les mêmes mots 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; reprend à peu près les mêmes mots que &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; en 2009 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai retrouvé sur internet 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous je vous non mais vous me le confirmerez en plateau ou pas parce que pour le coup vous savez internet
+<Sync time="3194.259"/>
+nos internautes vous en pensez quoi de ce débat lancé par Marine Le Pe[a-z] ?
+<Sync time="3197.395"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à côté de la plaque 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Maxime, &lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt;
+</Turn>
+<Turn startTime="3201.403" endTime="3202.605">
+<Sync time="3201.403"/>
+
+</Turn>
+<Turn startTime="3202.605" endTime="3203.175">
+<Sync time="3202.605"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="3203.175" endTime="3231.584">
+<Sync time="3203.175"/>
+moi j'ai toujours dénoncé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; comme utilisant la laïcité 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+con(tre)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ comme une arme contre l'Islam 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça ça m'a toujours posé un problème 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je trouve franchement qu'elle est abusive sur l'histoire du voile et de la kippa 
+<Sync time="3213.666"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais il est vrai par contre que l'Etat a aussi abandonné 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ question religieuse 
+<Sync time="3218.483"/>
+par exemple il est intolérable de laisser des 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3220.83"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des prières dans la rue qui ne sont pas autorisées
+<Sync time="3223.775"/>
+par l'Etat français
+<Sync time="3225.133"/>
+comme on peut le voir dans certains quartiers parisiens ou même en province 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et là 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a un problème où certaines institutions 
+</Turn>
+<Turn startTime="3231.584" endTime="3245.281" speaker="spk6">
+<Sync time="3231.584"/>
+religieuses qui se permettent de dispenser la charia et ou l'Etat ferme les yeux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc je pense qu'il faut trouver un juste milieu et ce juste milieu c'est l'application de la loi républicaine 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et l'extrémisme de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; n'est pas bon pour notre pays et c'est ce que &lt;pers=Nicolas_DUPONT-AIGNAN&gt;Dupont-Aignan&lt;/pers&gt; défend et c'est pour ça que je le soutiens 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3245.281" endTime="3251.169">
+<Sync time="3245.281"/>
+
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ d'accord 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ là vous vous dévoilez comme ça vous posez le masque mais en tout cas voilà 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous avez été en tout cas transparent comme 
+</Turn>
+<Turn speaker="spk1 spk5" startTime="3251.169" endTime="3252.238">
+<Sync time="3251.169"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3252.238" endTime="3261.884">
+<Sync time="3252.238"/>
+&lt;pers=Nicolas_DUPONT-AIGNAN&gt;Dupont-Aignan&lt;/pers&gt; si 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il a pas lui même un peu aidé parfois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des groupes politico-religieux dans sa commune 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais peu importe parce que 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ tous les élus locaux tous les élus locaux 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ont un petit peu joué à ça
+</Turn>
+<Turn speaker="spk1" startTime="3261.884" endTime="3264.912">
+<Sync time="3261.884"/>
+&lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; pour la défense de Maxime qui est arrivé pas masqué et qui dit la vérité
+</Turn>
+<Turn speaker="spk5 spk1" startTime="3264.912" endTime="3266.136">
+<Sync time="3264.912"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3266.136" endTime="3297.036">
+<Sync time="3266.136"/>
+qui a été très bien néanmoins non mais ce qui vraiment passionnant dans la position
+<Sync time="3268.887"/>
+que prend &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; c'est que
+<Sync time="3270.15"/>
+là elle est totalement à côté de la plaque et que ça se voit énormément si vous voulez, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle avait fait un gros effort pour faire semblant d'être laïque jusque là 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3277.131"/>
+ça paraissait quand même déjà un petit peu grossier quand on sait que le Front National 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à une longue histoire 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ plutôt de rejet de la laïcité 
+<Sync time="3283.638"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a oublié que le Front National est le parti qui a organisé la première manifestation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ contre les signes religieux à l'école publique en 2004 alors certes c'était plutôt les amis de &lt;pers=Bruno_GOLLNISCH&gt;Bruno Gollnisch&lt;/pers&gt;
+<Sync time="3292.777"/>
+que de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; mais ils sont allés devant la commission dire pourquoi ils ne voulaient pas de cette loi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3297.036" endTime="3301.958">
+<Sync time="3297.036"/>
+courant au FN y a le 
+<Event desc="bc" type="noise" extent="begin"/>
+courant plutôt païen, laïque, y a le courant catholique, ultra catholique
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3301.958" endTime="3380.661">
+<Sync time="3301.958"/>
+même l'aile de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; qui est censé être un peu moins proche des intégristes catholiques et des monarchistes et des moratiens qu'on sait être parfaitement anti-républicains et anti-laïques
+<Sync time="3309.337"/>
+même &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; et son rassemblement bleu marine compte des gens comme &lt;pers=Paul-Marie_COUTEAUX&gt;Paul-Marie Coûteaux&lt;/pers&gt; qui s'est dévoilé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ces ces derniers jours et c'est intéressant qu'il nous dit je suis pour la préférence chrétienne
+<Sync time="3318.157"/>
+&amp;ben écoutez là au moins c'est clair au Front National il n'est pas question de laïcité, il n'est pas question de traiter toutes les religions à égalité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il est question de faire semblant 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &amp;ben évidemment que c'est un prétexte
+<Sync time="3327.054"/>
+pour renouveler le discours anti-islam et le racisme anti-arabe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la guerre d'Algérie qui est toujours très présente dans la culture politique du Front National
+<Sync time="3334.981"/>
+et en l'occurrence réaffirmer une préférence nationale
+<Sync time="3337.667"/>
+à tendance chrétienne d'ailleurs &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; a tendance à dire 
+<Sync time="3340.641"/>
+que la christianisme a offert la laïcité à la France qui est déjà une méconnaissance historique 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3344.955"/>
+assez inouïe 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qu'en gros
+<Sync time="3348.522"/>
+c'est pas la laïcité qui va nous protéger de l'Islam mais c'est l'identité
+<Sync time="3351.49"/>
+chrétienne ça se voit quand il est question d'interdire le voile dans la rue 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et la kippa mais pas les croix
+<Sync time="3356.226"/>
+d'ailleurs 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ au congrès du FN y avait des 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ju(ste) ju(ste)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ juste une petite anecdote pour vous amuser le seul manifestant islamiste un peu déchainé qui a été arrêté à Marseille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3364.926"/>
+monsieur &lt;pers=Djelile_LCP_CaVousRegarde_2012-09-24&gt;Djelile&lt;/pers&gt;
+<Sync time="3366.148"/>
+il est proche 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ du Front National, il est proche de &lt;pers=Jean-Marie_LE_PEN&gt;Jean-Marie Le Pen&lt;/pers&gt; et il milite dans les environs du Front National 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un des grossistes de la viande halal 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au moment où &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; lançait ce débat était membre du Front National 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ donc y a quand même un jeu dupe dans cette affaire qui commence à beaucoup se voir
+</Turn>
+<Turn speaker="spk1" startTime="3380.661" endTime="3399.617">
+<Sync time="3380.661"/>
+&lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; la mission voile, la mission dite burqa en parallèle je suis retombé sur des articles où &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; voulait lancer lui une proposition de loi
+<Sync time="3388.278"/>
+pendant que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les députés 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ débattaient 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en mission et il avait évoqué alors peut-être me trompais-je l'idée peut-être d'aller encore plus loin et d'interdire les voiles sur les lieux publics
+</Turn>
+<Turn speaker="spk2" startTime="3399.617" endTime="3404.505">
+<Sync time="3399.617"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+non
+<Event desc="dis=rep" type="noise" extent="end"/>
+ non je crois en avoir entendu ça c'est ce qui avait été paradoxal avec cette affaire c'est qu'on avait demandé au parlement de
+</Turn>
+<Turn startTime="3404.505" endTime="3404.725">
+<Sync time="3404.505"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3404.725" endTime="3410.19">
+<Sync time="3404.725"/>
+faire réfléchir avec l'UMP avait créé cette mission et que
+<Sync time="3407.424"/>
+le jour de sa création monsieur &lt;pers=Jean-Francois_COPE&gt;Copé&lt;/pers&gt; avait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="3410.19" endTime="3410.392">
+<Sync time="3410.19"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3410.392" endTime="3421.295">
+<Sync time="3410.392"/>
+conclu le débat en disant voila comment ça va se terminer ce qui était un mépris souverain 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des travaux qui pourtant
+<Sync time="3415.377"/>
+avait été 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au début bien engagé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3417.319"/>
+non ce que je veux 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+re(bondir)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ rebondir sur ce que disait &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; à l'instant je pense que
+</Turn>
+<Turn startTime="3421.295" endTime="3421.509">
+<Sync time="3421.295"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3421.509" endTime="3433.01">
+<Sync time="3421.509"/>
+ya des moments où il va falloir dire des choses encore plus fermement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Front National et 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+éga(lité)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ laïcité égale incompatibilité majeure je veux quand on entend laïcité dans la bouche de cette femme qui dirige le Front National 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est une vaste fumisterie 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3433.01" endTime="3434.597">
+<Sync time="3433.01"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3434.597" endTime="3458.217">
+<Sync time="3434.597"/>
+mais ça veut dire que je veux dire le Front National la laïcité c'est quo[a-z] ? c'est c'est l'application à nos consciences du triptyque républicain liberté, égalité, fraternité
+<Sync time="3442.81"/>
+comme y a rien de républicain dans ce parti il peut pas être le défenseur de la laïcité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc c'est vrai que ce parti s'est saisi de cette 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ d'une manière
+<Sync time="3449.496"/>
+tout à fait usurpée presque choquante moralement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pourquoi pour défendre les valeurs et les racines chrétiennes de la France et développer un racisme anti-musulman 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3458.217" endTime="3463.497">
+<Sync time="3458.217"/>
+même si effectivement c'est une un opportunisme politique et ce que vous 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ reconnaissez qu'il y a des éléments
+</Turn>
+<Turn speaker="spk2 spk4" startTime="3463.497" endTime="3470.369">
+<Sync time="3463.497"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3470.369" endTime="3473.074">
+<Sync time="3470.369"/>
+je parle de &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cette idée qu'il fallait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aller un peu plus loin 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3473.074" endTime="3480.759">
+<Sync time="3473.074"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+moi
+<Event desc="dis=rep" type="noise" extent="end"/>
+ moi je vais vous dire une chose quand j'ai été présidente de la Halde j'ai défendu une crèche associative qui travaille dans des quartiers, des quartiers difficiles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="3480.759" endTime="3480.983">
+<Sync time="3480.759"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3480.983" endTime="3489.957">
+<Sync time="3480.983"/>
+je peux vous dire que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'étais
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ j'étais seule à témoigner, je suis restée 8h assise au tribunal au Conseil des Prud'hommes de Mantes La Jolie 
+</Turn>
+<Turn startTime="3489.957" endTime="3490.329">
+<Sync time="3489.957"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3490.329" endTime="3500.3">
+<Sync time="3490.329"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la seule personnalité qui a soutenu 
+<Sync time="3492.846"/>
+
+<Event desc="dis=hes" type="noise" extent="instantaneous"/>
+b()
+<Event desc="dis=hes" type="noise" extent="instantaneous"/>
+ c'est alors &lt;pers=Elisabeth_BADINTER&gt;Elisabeth Badinter&lt;/pers&gt; ça c'est sûr il y avait &lt;pers=Caroline_FOUREST&gt;Caroline&lt;/pers&gt; et 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ qui est passée effectivement 5 minutes au procès, moi je suis restée 8 heures et j'ai témoignée
+</Turn>
+<Turn startTime="3500.3" endTime="3500.579">
+<Sync time="3500.3"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3500.579" endTime="3524.173">
+<Sync time="3500.579"/>
+et donc je peux vous dire qu'à ce moment-là on avait pas beaucoup de soutien pour nous défendre une crèche associative qui permet à des femmes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de pouvoir en tout cas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de confier leurs enfants pour qu'elles puissent travailler 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3510.51"/>
+et donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elle
+<Event desc="dis=rep" type="noise" extent="end"/>
+ elle a un don comme son père c'est-à-dire de sentir les sujets sur lesquelles on a été faible voila 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je pense que le drame de la droite et de la gauche c'est d'avoir abandonné la laïcité un temps voila, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi je vais vous dire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ non c'était pas au profit de qui par exemple moi je vais vous dire
+</Turn>
+<Turn startTime="3524.173" endTime="3524.563">
+<Sync time="3524.173"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="3524.563" endTime="3526.689">
+<Sync time="3524.563"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3526.689" endTime="3528.174">
+<Sync time="3526.689"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai fait parti parce que
+</Turn>
+<Turn startTime="3528.174" endTime="3528.419">
+<Sync time="3528.174"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3528.419" endTime="3568.567">
+<Sync time="3528.419"/>
+lorsque vous étiez en mission en fait sur la loi sur le voile intégral au Conseil d'Etat on avait réuni un petit groupe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ notamment à la demande du gouvernement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'en faisais partie
+<Sync time="3537.196"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et moi ce que par exemple en 89 quand éventuellement &lt;pers=Lionel_JOSPIN&gt;Lionel Jospin&lt;/pers&gt; demande au Conseil d'Etat un avis 
+<Sync time="3542.436"/>
+au Conseil d'Etat à ma juridiction sur la question du voile je trouve que c'était l'abandon du politique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au profit du juridique il aurait dû prendre une décision et ne pas laisser les chefs d'établissements 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ décider tout seul et &lt;pers=Elisabeth_BADINTER&gt;Elisabeth Badinter&lt;/pers&gt; comme dans son livre "fausse route"
+<Sync time="3554.485"/>
+a expliqué que dès qu'on défend la laïcité on est accusé d'islamophobie de faire le jeu du Front National 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en 89 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ oui mais &lt;pers=Gisele_HALIMI&gt;Gisèle Halimi&lt;/pers&gt; rend sa carte à SO(S) sa carte d'SOS racisme parce que SOS racisme avait prit parti pour les jeunes filles voilés
+</Turn>
+<Turn speaker="spk5 spk4" startTime="3568.567" endTime="3569.534">
+<Sync time="3568.567"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3569.534" endTime="3603.056">
+<Sync time="3569.534"/>
+est ce qu'on peut dire que ça a beaucoup changé 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais est ce qu'on peut dire que ça a beaucoup changé depuis 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ d'abord les associations anti-racismes celles sincères pas celles qui défendent l'alliance avec les islamistes comme les indigènes de la république 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+mais celles sincères
+<Sync time="3580.993"/>
+sont beaucoup clarifié les idées et aujourd'hui défendent largement la laïcité, au Parti Socialiste il est clair que la ligne
+<Sync time="3586.644"/>
+républicaine, laïque, ferme l'a emporté sur une ligne qui aurait pu
+<Sync time="3590.205"/>
+au nom du multiculturalisme trouver des circonstances atténuantes à l'intégrisme, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la gauche s'est largement la gauche de la gauche aussi le partie de gauche a pris des positions très claires sur les ambiguïtés du mot islamophobie sur la réaffirmation du droit au blasphème 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de la laïcité
+</Turn>
+<Turn speaker="spk1" startTime="3603.056" endTime="3607.071">
+<Sync time="3603.056"/>
+&lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt; dites nous parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on parle beaucoup de vous, là vous êtes avec nous là 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ devant
+</Turn>
+<Turn speaker="spk1 spk7" startTime="3607.071" endTime="3607.768">
+<Sync time="3607.071"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3607.768" endTime="3611.199">
+<Sync time="3607.768"/>
+comme elle parle puisqu'effectivement depuis tout à l'heure 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on arrête pas d'attaquer 
+<Event desc="bc" type="noise" extent="begin"/>
+les Indigènes de la république 
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7 spk1" startTime="3611.199" endTime="3613.432">
+<Sync time="3611.199"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3613.432" endTime="3613.996">
+<Sync time="3613.432"/>
+alors allez-y
+</Turn>
+<Turn speaker="spk7 spk5" startTime="3613.996" endTime="3615.931">
+<Sync time="3613.996"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3615.931" endTime="3633.832">
+<Sync time="3615.931"/>
+que vous allez répéter 50 fois un mensonge que ça va se transformer 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="3624.686"/>
+en vérité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3619.366"/>
+alors 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'histoire
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'histoire de la fête de l'humanité
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'histoire de la fête de l'humanité vous savez très bien que y avait absolument personne de l'extrême droite en tout cas parmi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ les gens qui étaient présent y avait absolument personne de l'extrême droite 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est ce que vous avez dit c'est ce qui a été repris par le parti de gauche 
+</Turn>
+<Turn speaker="spk5 spk7" startTime="3633.832" endTime="3638.513">
+<Sync time="3633.832"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3638.513" endTime="3644.558">
+<Sync time="3638.513"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce qui faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ non mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce qui faut ce qui faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce qui faut savoir quand même c'est que &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ne
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+n'a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ n'a de cesse de dire des contre-vérités
+</Turn>
+<Turn speaker="spk5 spk7" startTime="3644.558" endTime="3646.305">
+<Sync time="3644.558"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3646.305" endTime="3657.764">
+<Sync time="3646.305"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour rétablir les faits 
+<Sync time="3648.27"/>
+nous n'avons absolument pas participé
+<Sync time="3650.876"/>
+en tant que organisation à cette 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="3653.132"/>
+à cet événement qui était la remise donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la banane d'or c'est les indivisibles donc si vous avez des choses à dire
+</Turn>
+<Turn speaker="spk7 spk1" startTime="3657.764" endTime="3660.047">
+<Sync time="3657.764"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3660.047" endTime="3662.558">
+<Sync time="3660.047"/>
+la question du voile 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous allez
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous allez 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk7" startTime="3662.558" endTime="3673.747">
+<Sync time="3662.558"/>
+et tous vos écrits 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il faut que les gens sachent 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et que les auditeurs et que les téléspectateurs sachent que la plupart 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des théories 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des écrits de &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; sont repris par l'extrême droite
+</Turn>
+<Turn speaker="spk5 spk7" startTime="3673.747" endTime="3678.108">
+<Sync time="3673.747"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3678.108" endTime="3687.951">
+<Sync time="3678.108"/>
+par le bloc identitaire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ par le bloc identitaire et c'est sur madame &lt;pers=Caroline_FOUREST&gt;Fourest&lt;/pers&gt; qu'on s'appuie, que des mouvements d'extrême droite s'appuient pour 
+<Event desc="bc" type="noise" extent="begin"/>
+légitimer leur islamophobie
+<Event desc="bc" type="noise" extent="end"/>
+ et leur racisme 
+</Turn>
+<Turn speaker="spk1" startTime="3687.951" endTime="3688.668">
+<Sync time="3687.951"/>
+&lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3688.668" endTime="3694.848">
+<Sync time="3688.668"/>
+c'est de ça 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dont il s'agit réellement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est madame &lt;pers=Caroline_FOUREST&gt;Fourest&lt;/pers&gt; qui véhicule 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ les vieux clichés racistes et 
+<Event desc="bc" type="noise" extent="begin"/>
+islamophobes à longueur de temps
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk7" startTime="3694.848" endTime="3697.356">
+<Sync time="3694.848"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3697.356" endTime="3697.635">
+<Sync time="3697.356"/>
+attendez 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3697.635" endTime="3698.333">
+<Sync time="3697.635"/>
+pourquoi si vous êtes 
+</Turn>
+<Turn startTime="3698.333" endTime="3698.529">
+<Sync time="3698.333"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3698.529" endTime="3700.198">
+<Sync time="3698.529"/>
+pour la liberté d'expression 
+</Turn>
+<Turn startTime="3700.198" endTime="3700.465">
+<Sync time="3700.198"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3700.465" endTime="3720.032">
+<Sync time="3700.465"/>
+moi je suis à droite donc je suis pas à gauche à la fête de l'Humanité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ y a eu cette manifestation pourquoi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ attaquer &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; alors qu'elle vient débattre dans 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ oui moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'étais surprise ce ça
+<Sync time="3713.624"/>
+moi je je dis je suis pas à gauche donc j'ai pas de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi j'étais surprise je m'étais dit à la Courneuve 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ inchallah
+</Turn>
+<Turn speaker="spk1" startTime="3720.032" endTime="3729.89">
+<Sync time="3720.032"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ c'est une main tendu de &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; sur le plateau 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="3723.111"/>
+
+<Event desc="rire en fond" type="noise" extent="begin"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt; juste sur la liberté d'expression parce voila 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour clore ce débat
+<Event desc="rire en fond" type="noise" extent="end"/>
+ je voudrai entendre&lt;pers=Chems-Eddine_HAFIZ&gt;Chems-Eddine Hafiz&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3729.89" endTime="3744.612">
+<Sync time="3729.89"/>
+d'ailleurs sur le site de &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; où vous voyez qu'effectivement y a eu absolument aucune violence contrairement à ce qui a été dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a eu la possibilité ce qu'on ce qu'attendait les individus nuisibles pour remettre cette banane d'or c'est simplement &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; puisse s'exprimer malheureusement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; 
+</Turn>
+<Turn speaker="spk5 spk7" startTime="3744.612" endTime="3747.902">
+<Sync time="3744.612"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="3747.902" endTime="3751.614">
+<Sync time="3747.902"/>
+généralement elle refuse les départs elle a pour habitude 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3751.614" endTime="3753.911">
+<Sync time="3751.614"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ en tout cas vous avez pu débattre ce soir 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3753.911" endTime="3761.568">
+<Sync time="3753.911"/>
+petite précision juste parce vous appelez ça un chahut moi 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+j'ai
+<Event desc="dis=rev" type="noise" extent="end"/>
+ y avait une trentaine d'excités qui ont essayé de monter sur la scène de m'envoyer des projectiles le service d'ordre de la fête du l'huma m'a dit
+</Turn>
+<Turn startTime="3761.568" endTime="3761.789">
+<Sync time="3761.568"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3761.789" endTime="3787.125">
+<Sync time="3761.789"/>
+c'est tellement violent qu'on est obligé de vous évacuer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc je n'ai pas pu dire un mot c'était un débat contre l'extrême droite c'est la deuxième fois que ces courants essaient de saboter un débat que j'essaie de mener contre le racisme anti-musulman et 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ contre l'extrême droite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et j'ai toujours à la fois combattu 
+<Sync time="3775.72"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'extrême droite et son racisme anti-musulman 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ces groupes qui cherchent à protéger l'intégrisme de toutes critiques furent-elles anti-raciste c'est un beau débat à gauche 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui av(ait)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qui a largement été gagné mais qui mérite de continuer à le mener 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3787.125" endTime="3795.5">
+<Sync time="3787.125"/>
+pour clore ce débat parce que je vais vous donner la parole et puis les internautes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur la question du voile 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on s'est arrêté au bon endroi[a-z] ? la loi s'est arrêté là où il fallai[a-z] ? &lt;pers=Chems-Eddine_HAFIZ&gt;Chems-Eddine Hafiz&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3795.5" endTime="3809.498">
+<Sync time="3795.5"/>
+écoutez moi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est ce que j'avais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lors de mon audition à cette 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ commission. j'étais contre une loi.
+<Sync time="3803.592"/>
+parce que j'estime aujourd'hui que s'il y a véritablement des questions de société de ce type
+</Turn>
+<Turn startTime="3809.498" endTime="3809.756">
+<Sync time="3809.498"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3809.756" endTime="3814.267">
+<Sync time="3809.756"/>
+moi personnellement en temps que musulman je donne mon avis, je considère
+</Turn>
+<Turn startTime="3814.267" endTime="3814.932">
+<Sync time="3814.267"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3814.932" endTime="3817.333">
+<Sync time="3814.932"/>
+que moi je suis le premier à être interpellé
+</Turn>
+<Turn startTime="3817.333" endTime="3817.564">
+<Sync time="3817.333"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3817.564" endTime="3822.739">
+<Sync time="3817.564"/>
+dans ma propre croyance puisque des femmes portent la burqa au nom du livre qui m'est sacré
+</Turn>
+<Turn startTime="3822.739" endTime="3823.414">
+<Sync time="3822.739"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3823.414" endTime="3823.852">
+<Sync time="3823.414"/>
+donc
+</Turn>
+<Turn startTime="3823.852" endTime="3824.137">
+<Sync time="3823.852"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3824.137" endTime="3831.245">
+<Sync time="3824.137"/>
+j'avais proposé à ce qu'il y ait véritablement une approche pédagogique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce il est anormal qu'en France des femmes
+</Turn>
+<Turn startTime="3831.245" endTime="3831.924">
+<Sync time="3831.245"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3831.924" endTime="3838.177">
+<Sync time="3831.924"/>
+qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aujourd'hui portent la burqa 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+soient
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ soient aujourd'hui 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans cette situation 
+</Turn>
+<Turn startTime="3838.177" endTime="3838.437">
+<Sync time="3838.177"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3838.437" endTime="3842.322">
+<Sync time="3838.437"/>
+je trouve qu'il faut discuter avec elles et essayer de les extirper 
+</Turn>
+<Turn startTime="3842.322" endTime="3842.621">
+<Sync time="3842.322"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3842.621" endTime="3854.815">
+<Sync time="3842.621"/>
+de cette situation parce que ce n'est pas normal il y a des personnes qui ont voulu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ considérer ces organisations comme des sectes, on doit aller de l'avant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais la grande majorité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ des musulmans de France ne sont pas dans cette situation
+</Turn>
+<Turn speaker="spk1" startTime="3854.815" endTime="3856.163">
+<Sync time="3854.815"/>
+merci à vous 4 &lt;pers=Jeannette_BOUGRAB&gt;Jeannette Bougrab&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ un 
+</Turn>
+<Turn speaker="spk4 spk1" startTime="3856.163" endTime="3857.815">
+<Sync time="3856.163"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3857.815" endTime="3874.203">
+<Sync time="3857.815"/>
+que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'image aujourd'hui par exemple je lisais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le
+<Sync time="3860.932"/>
+vaguement l'interview de &lt;pers=Melanie_GEORGIADES&gt;Diam's&lt;/pers&gt; qui s'est convertie à l'Islam qui refuse désormais de donner des interviews à des journalistes hommes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et donc c'est ça qui est désastreux et c'est par l'éducation, l'histoire 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du fait religieux et c'est très étrange qu'en France on n'est pas capable 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3874.203" endTime="3876.216">
+<Sync time="3874.203"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la formation des 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ imams qui est très importante
+</Turn>
+<Turn speaker="spk4 spk1" startTime="3876.216" endTime="3876.695">
+<Sync time="3876.216"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3876.695" endTime="3890.146">
+<Sync time="3876.695"/>
+du débat passionnant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on va
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on va le poursuivre ce débat évidemment il y aura d'autres émissions 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt; merci d'être venu sur ce plateau je rappelle "la laïcité un combat pour la paix chez Héloïse d'Ormesson 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3885.367"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on le trouve encore merci à &lt;pers=Caroline_FOUREST&gt;Caroline Fourest&lt;/pers&gt; vous avez pu débattre avec les indigènes de la République 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ ça s'est passé
+</Turn>
+<Turn speaker="spk5 spk1" startTime="3890.146" endTime="3893.616">
+<Sync time="3890.146"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3893.616" endTime="3916.257">
+<Sync time="3893.616"/>
+&lt;pers=Abdelkarim_AICHI&gt;Abdelkarim&lt;/pers&gt; d'être venu dans sa webcam, remercie Maxime &amp;hein un proche
+<Sync time="3897.288"/>
+de &lt;pers=Nicolas_DUPONT-AIGNAN&gt;Nicolas Dupont Aignan&lt;/pers&gt; nous le savons maintenant ce soir et puis je remercie &lt;pers=Jeannette_BOUGRAB&gt;Jeannette Bougrab&lt;/pers&gt; et &lt;pers=Chems-Eddine_HAFIZ&gt;Chems-Eddine Hafiz&lt;/pers&gt; d'être venu sur ce plateau merci à nos internautes merci de votre fidélité demain 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3905.336"/>
+on s'intéresse 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au
+<Event desc="dis=rep" type="noise" extent="end"/>
+ au train de vie de l'Etat y a un livre de &lt;pers=Rene_DOSIERE&gt;René Dosière&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui est sorti 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il en parle c'est le spécialiste on en parlera sur ce plateau, merci de votre fidélité, je serai là demain soir et on est très en retard. au revoir
+</Turn>
+</Section>
+<Section type="nontrans" startTime="3916.257" endTime="4263.504">
+<Turn startTime="3916.257" endTime="4263.504">
+<Sync time="3916.257"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

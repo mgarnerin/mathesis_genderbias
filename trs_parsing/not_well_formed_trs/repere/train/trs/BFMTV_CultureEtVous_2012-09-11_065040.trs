@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-09-11_065040" version="2" version_date="131030">
+<Speakers>
+<Speaker id="spk1" name="Christophe_DELAY" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Claire_FLEURY" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="speaker#4" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk5" name="Meredith_RUTLEDGE-BORGER" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk7" name="Omar_SY" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk8" name="Jose_GARCIA" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk9" name="Gad_ELMALEH" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk10" name="Gael_CLICHY" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk11" name="Olivier_GIROUD" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="210.0">
+<Turn startTime="0" endTime="210.0">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="210.0" endTime="324.101">
+<Turn startTime="210.0" endTime="213.876" speaker="spk1">
+<Sync time="210.0"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et ce matin, nous avons le nouvel album de &lt;pers=Bob_DYLAN&gt;Bob Dylan&lt;/pers&gt; qui est dans les bacs
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="213.876" endTime="218.561">
+<Sync time="213.876"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+"the tempest" c'est son nom. la superbe robe viande vous savez de &lt;pers=Stefani_GERMANOTTA&gt;Lady Gaga&lt;/pers&gt; 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui est au musée.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="218.561" endTime="222.024">
+<Sync time="218.561"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et du cinéma pour les bleus &lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt;.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="222.024" endTime="225.076">
+<Sync time="222.024"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="225.076" endTime="235.365">
+<Sync time="225.076"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et revoici &lt;pers=Bob_DYLAN&gt;Bob Dylan&lt;/pers&gt; 50 ans de carrière 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors pour souffler dignement ces nombreuses bougies. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il livre un nouvel album, le 35ème quand même ! 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="235.365" endTime="238.863">
+<Sync time="235.365"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="238.863" endTime="249.625">
+<Sync time="238.863"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+mais Mister &lt;pers=Bob_DYLAN&gt;Dylan&lt;/pers&gt; ne lasse toujours pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans la presse critiques élogieuses 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ y a pas à dire à 71 ans, il prouve qu'il reste un exemple à suivre.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="249.625" endTime="254.587">
+<Sync time="249.625"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="254.587" endTime="256.976">
+<Sync time="254.587"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+saignante.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="256.976" endTime="276.05">
+<Sync time="256.976"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+rappelez-vous, 13 septembre 2010 "MTV video music awards" &lt;pers=Stefani_GERMANOTTA&gt;Lady Gaga&lt;/pers&gt; choque. en cause, cette magnifique robe en viande.
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="266.528"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et bien désormais, elle a sa place au musée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+si
+<Event desc="dis=rep" type="noise" extent="end"/>
+ si parce que bien plus qu'un vêtement, bien plus qu'une provocation, cet objet est porteur d'un message.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5 spk6" startTime="276.05" endTime="283.149">
+<Sync time="276.05"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+en la portant, elle disait : si vous ne vous battez pas pour ce en quoi vous croyez, alors vous ne serez plus qu'un morceau de viande.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="283.149" endTime="288.217">
+<Sync time="283.149"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+&amp;bah oui bien sûr c'est la preuve surtout qu'on peut tout faire dire à une robe.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="288.217" endTime="290.407">
+<Sync time="288.217"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+star du ciné à Clairefontaine.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="290.407" endTime="304.888">
+<Sync time="290.407"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+un bisou par ci, un bisou par-là, &lt;pers=Ramzy_BEDIA&gt;Ramzy&lt;/pers&gt; ne boude pas son plaisir d'être à Clairefontaine, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ accompagné de &lt;pers=Didier_MORVILLE&gt;JoeyStarr&lt;/pers&gt; et de &lt;pers=Jose_GARCIA&gt;José Garcia&lt;/pers&gt;, ils présentent à l'équipe de France "les seigneurs" leur prochain film.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="304.888" endTime="306.926">
+<Sync time="304.888"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+c'est quoi cette odeur-là ?
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="306.926" endTime="307.998">
+<Sync time="306.926"/>
+ça sent la marée !
+</Turn>
+<Turn speaker="spk9" startTime="307.998" endTime="308.849">
+<Sync time="307.998"/>
+c'est mon slip porte bonheur.
+</Turn>
+<Turn speaker="spk10" startTime="308.849" endTime="311.164">
+<Sync time="308.849"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+du coup c'était plaisant, c'était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un vrai moment, un bon moment.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="311.164" endTime="314.3">
+<Sync time="311.164"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ouais c'est un film à aller voir
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ entre potes.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="314.3" endTime="324.101">
+<Sync time="314.3"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+opération séduction réussie. les acteurs ont gagné le cœur des bleus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ par contre question jeux vidéo, échec sur toute la ligne.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="324.101" endTime="418.944">
+<Turn startTime="324.101" endTime="418.944">
+<Sync time="324.101"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

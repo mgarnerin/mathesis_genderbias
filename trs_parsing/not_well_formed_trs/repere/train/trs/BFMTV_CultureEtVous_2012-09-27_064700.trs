@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-09-27_064700" version="3" version_date="131030">
+<Speakers>
+<Speaker id="spk1" name="Christophe_DELAY" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Philippe_DUFREIGNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="speaker#4" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk5" name="Mireille_MATHIEU" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="359.977">
+<Turn startTime="0" endTime="359.977">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="359.977" endTime="482.976">
+<Turn startTime="359.977" endTime="364.65" speaker="spk1">
+<Sync time="359.977"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+&lt;pers=Joanne_ROWLING&gt;J. K. Rowling&lt;/pers&gt; aura-t-elle le même succès &lt;pers=Pascale_DE_LA_TOUR_DU_PIN&gt;Pascale&lt;/pers&gt; avec les adultes que celui qu'elle a eu avec les enfants ?
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="364.65" endTime="379.364">
+<Sync time="364.65"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+terminé l'univers effectivement de Harry Potter l'auteure sort aujourd'hui en Grande-Bretagne et demain en France un nouveau livre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ "une place à prendre" l'intrigue se situe dans 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un village anglais imaginaire en proie d'
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ politique. un succès commercial garanti a en jugé en tout cas les précommandes.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="379.364" endTime="384.078">
+<Sync time="379.364"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+dans "culture et vous" ce matin nous avons notamment l'autobiographie de &lt;pers=Melanie_GEORGIADES&gt;Diam's&lt;/pers&gt; qui sort aujourd'hui. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="384.078" endTime="385.788">
+<Sync time="384.078"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+&lt;pers=Mireille_MATHIEU&gt;Mireille Mathieu&lt;/pers&gt; très en colère.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="385.788" endTime="392.697">
+<Sync time="385.788"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+y a des bijoux de stars 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+excusés 
+<Event desc="dis=rep" type="noise" extent="end"/>
+exposés
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ exposés au musée des Arts Déco de Paris.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="392.697" endTime="393.511">
+<Sync time="392.697"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="393.511" endTime="399.231">
+<Sync time="393.511"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="399.231" endTime="426.999">
+<Sync time="399.231"/>
+c'est le livre tant attendu dans "autobiographie" qui sort aujourd'hui &lt;pers=Melanie_GEORGIADES&gt;Diam's&lt;/pers&gt; rompt le silence, la rappeuse revient sur sa conversion à l'Islam 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et sur sa décision de porter le voile. 
+<Sync time="408.23"/>
+le fruit d'une réflexion personnelle, intime et mûrit. jamais une personne de son entourage ne lui a dicté telle ou telle conduite à suivre dit-elle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="416.347"/>
+la chanteuse s'était tue depuis 2009 et la publication de clichés où elle apparaissait voilée dans "Paris match" aujourd'hui maman d'une petite fille de 4 mois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle reste évasive sur son avenir dans la musique.
+</Turn>
+<Turn speaker="spk4" startTime="426.999" endTime="429.854">
+<Sync time="426.999"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+une artiste fâchée.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="429.854" endTime="446.852">
+<Sync time="429.854"/>
+le gourou de &lt;pers=Mireille_MATHIEU&gt;Mireille Mathieu&lt;/pers&gt;, la télévision russe avait tronqué ses propos concernant les 
+<Sync time="434.377"/>
+Pussy Riots, ce groupe de jeunes femmes condamnées pour blasphème et critique du Kremlin 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Laurent_RUQUIER&gt;Laurent Ruquier&lt;/pers&gt; ou &lt;pers=Yann_BARTHES&gt;Yann Barthès&lt;/pers&gt; en France c'étaient moqués de la demoiselle d'Avignon. elle va assigner les deux émissions pour dénigrement, diffamation et propos mensongers.
+</Turn>
+<Turn speaker="spk5" startTime="446.852" endTime="459.451">
+<Sync time="446.852"/>
+c'est des paroles qui m'ont fait mal parce qu'on a pas le droit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de dénigrer quelqu'un 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'enlever les paroles de quelqu'un et j'ai assigné ces deux personnes parce que c'est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on ne peut pas je suis pas leur tête de turc et ça je laisse pas passer. je me laisse pas faire là.
+</Turn>
+<Turn speaker="spk4" startTime="459.451" endTime="462.325">
+<Sync time="459.451"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+oh ça brille.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="462.325" endTime="482.976">
+<Sync time="462.325"/>
+regardez bien voici une broche et un collier porté par &lt;pers=Elizabeth_TAYLOR&gt;Liz Taylor&lt;/pers&gt;, ici c'est la parure de mariage de &lt;pers=Grace_KELLY&gt;Grace Kelly&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les bijoux de stars s'exposent à partir d'aujourd'hui au musée des Arts Décoratifs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus de 500 bijoux en pierres précieuses et diamants issus d'un grand joaillier 
+<Sync time="476.734"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dont 150 proviennent de collections particulières, des joyaux à découvrir jusqu'au 10 février 2013.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="482.976" endTime="1867.80410417">
+<Turn startTime="482.976" endTime="1867.80410417">
+<Sync time="482.976"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
